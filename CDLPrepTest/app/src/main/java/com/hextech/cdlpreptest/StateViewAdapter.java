@@ -13,18 +13,20 @@ public class StateViewAdapter extends RecyclerView.Adapter<StateViewAdapter.Stat
 
     String dataArray1[];
     Context context;
+    private OnStateListner mOnStateListner;
 
-    public StateViewAdapter(Context ct, String s1[]){
+    public StateViewAdapter(Context ct, String s1[], OnStateListner onStateListner){
         context = ct;
         dataArray1 = s1;
+        this.mOnStateListner = onStateListner;
     }
 
     @NonNull
     @Override
     public StateViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         LayoutInflater inflater = LayoutInflater.from(context);
-        View view= inflater.inflate(R.layout.state_row, parent, false);
-        return new StateViewHolder(view);
+        View view = inflater.inflate(R.layout.state_row, parent, false);
+        return new StateViewHolder(view, mOnStateListner);
     }
 
     @Override
@@ -37,13 +39,22 @@ public class StateViewAdapter extends RecyclerView.Adapter<StateViewAdapter.Stat
         return dataArray1.length;
     }
 
-    public class StateViewHolder extends RecyclerView.ViewHolder {
+    public class StateViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
 
         TextView stateTitle;
+        OnStateListner onStateListner;
 
-        public StateViewHolder(@NonNull View itemView) {
+        public StateViewHolder(@NonNull View itemView, OnStateListner onStateListner) {
             super(itemView);
             stateTitle = itemView.findViewById(R.id.stateName);
+            this.onStateListner = onStateListner;
+
+            itemView.setOnClickListener(this);
+        }
+
+        @Override
+        public void onClick(View view) {
+            onStateListner.onStateClick(getAdapterPosition());
         }
     }
 
