@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">CDL Prep Test</string>
+    
+    <string-array name="state_names">
+        <item>Alabama</item>
+        <item>Chicago</item>
+        <item>San Andreas</item>
+        <item>Los Santos</item>
+        <item>Vice City</item>
+    </string-array>
 </resources>
