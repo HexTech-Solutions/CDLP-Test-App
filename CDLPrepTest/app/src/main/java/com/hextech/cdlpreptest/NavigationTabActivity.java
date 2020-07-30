@@ -1,21 +1,18 @@
 package com.hextech.cdlpreptest;
 
+import android.content.Intent;
 import android.os.Bundle;
-
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.tabs.TabLayout;
-
 import androidx.viewpager.widget.ViewPager;
 import androidx.appcompat.app.AppCompatActivity;
-
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
-
 import com.hextech.cdlpreptest.ui.main.SectionsPagerAdapter;
 
 public class NavigationTabActivity extends AppCompatActivity {
+
+    int topic = 1;
+    int qCount = 100;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -29,11 +26,15 @@ public class NavigationTabActivity extends AppCompatActivity {
         FloatingActionButton fab = findViewById(R.id.fab);
 
         fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+            public void onClick(View v) {
+
+
+                Intent i = new Intent(getApplicationContext(),LevelActivity.class);
+                i.putExtra("SelectedTest",topic);
+                i.putExtra("QuestionCount1", qCount);
+                startActivity(i);
             }
+
         });
     }
 }
