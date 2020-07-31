@@ -9,12 +9,16 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.ProgressBar;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.MobileAds;
 
 public class LevelActivity extends AppCompatActivity {
 
     Button l1,l2,l3,l4,l5,l6,l7,l8,l9,l10,l11,l12,l13,l14,l15,l16,l17,l18;
     TextView notSeenTV, famTV, masterTV, progressCountTV;
     int familiarCount, masteredCount;
+    AdView adView;
     private ProgressBar progressBar;
     private int progressStatus = 0;
 
@@ -54,6 +58,7 @@ public class LevelActivity extends AppCompatActivity {
         disableButtons();
         updateStatus();
         updatePercentage();
+        addMobAd();
     }
 
     //set button visibility true and false for each Topic
@@ -217,6 +222,13 @@ public class LevelActivity extends AppCompatActivity {
             TextView textView = (TextView) findViewById(id);
             textView.setVisibility(View.INVISIBLE);
         }
+    }
+
+    //adding google ads
+    public void addMobAd(){
+        adView = (AdView)findViewById(R.id.adView);
+        AdRequest request = new AdRequest.Builder().build();
+        adView.loadAd(request);
     }
 
     //backbutton action
