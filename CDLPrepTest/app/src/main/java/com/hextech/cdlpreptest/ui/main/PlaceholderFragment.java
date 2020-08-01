@@ -11,6 +11,9 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.MobileAds;
 
 import com.hextech.cdlpreptest.R;
 
@@ -22,6 +25,7 @@ public class PlaceholderFragment extends Fragment {
     private static final String ARG_SECTION_NUMBER = "section_number";
 
     private PageViewModel pageViewModel;
+    AdView adView;
 
     public static PlaceholderFragment newInstance(int index) {
         PlaceholderFragment fragment = new PlaceholderFragment();
@@ -47,6 +51,12 @@ public class PlaceholderFragment extends Fragment {
             @NonNull LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState) {
         View root = inflater.inflate(R.layout.fragment_main, container, false);
+
+        //Google ads
+        adView = root.findViewById(R.id.adView);
+        AdRequest request = new AdRequest.Builder().build();
+        adView.loadAd(request);
+
         final TextView textView = root.findViewById(R.id.section_label);
         final TextView mainTView = root.findViewById(R.id.mainTextView);
         pageViewModel.getText().observe(this, new Observer<String>() {
