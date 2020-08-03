@@ -81,14 +81,13 @@
         <DatePicker
             android:id="@+id/datePicker1"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="70dp"
+            android:layout_height="440dp"
+            android:layout_marginBottom="60dp"
             android:datePickerMode="calendar"
             android:theme="@style/MyDatePickerDialogTheme"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
-
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -119,9 +118,11 @@
 
         <Button
             android:id="@+id/changeCountButton"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
             android:layout_marginTop="5dp"
+            android:layout_marginEnd="40dp"
             android:text="OK"
             app:layout_constraintBottom_toTopOf="@+id/textView7"
             app:layout_constraintEnd_toEndOf="parent"

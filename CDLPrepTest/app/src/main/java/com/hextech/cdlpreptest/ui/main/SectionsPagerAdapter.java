@@ -10,6 +10,11 @@ import androidx.fragment.app.FragmentPagerAdapter;
 
 import com.hextech.cdlpreptest.R;
 
+import ui.fragments.LearnFragment;
+import ui.fragments.ReviewFragment;
+import ui.fragments.SettingsFragment;
+import ui.fragments.TestFragment;
+
 /**
  * A [FragmentPagerAdapter] that returns a fragment corresponding to
  * one of the sections/tabs/pages.
@@ -27,15 +32,41 @@ public class SectionsPagerAdapter extends FragmentPagerAdapter {
 
     @Override
     public Fragment getItem(int position) {
-        // getItem is called to instantiate the fragment for the given page.
-        // Return a PlaceholderFragment (defined as a static inner class below).
-        return PlaceholderFragment.newInstance(position + 1);
+        //show the fragments to the tabs
+        Fragment fragment = null;
+        switch (position){
+            case 0:
+                fragment = new LearnFragment();
+                break;
+            case 1:
+                fragment = new ReviewFragment();
+                break;
+            case 2:
+                fragment = new TestFragment();
+                break;
+            case 3:
+                fragment = new SettingsFragment();
+                break;
+        }
+        return fragment;
+
     }
 
     @Nullable
     @Override
     public CharSequence getPageTitle(int position) {
-        return mContext.getResources().getString(TAB_TITLES[position]);
+        switch (position){
+            case 0:
+                return "Learn";
+            case 1:
+                return "Review";
+            case 2:
+                return "Test";
+            case 3:
+                return "Settings";
+        }
+        return null;
+//        return mContext.getResources().getString(TAB_TITLES[position]);
     }
 
     @Override

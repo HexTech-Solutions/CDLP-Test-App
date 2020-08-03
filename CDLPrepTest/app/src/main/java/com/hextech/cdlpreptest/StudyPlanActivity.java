@@ -14,6 +14,8 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.concurrent.TimeUnit;
 
+import ui.fragments.SettingsFragment;
+
 public class StudyPlanActivity extends AppCompatActivity {
 
     String newDate;
@@ -28,7 +30,7 @@ public class StudyPlanActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_study_plan);
         //back
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+//        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         //Get current date and time
         startDate = Calendar.getInstance().getTime();
 
@@ -111,13 +113,13 @@ public class StudyPlanActivity extends AppCompatActivity {
         }
     }
 
-    //Back Button to Main Page
-    @Override
-    public boolean onSupportNavigateUp(){
-        Intent myIntent = new Intent(StudyPlanActivity.this, MainActivity.class);
-        StudyPlanActivity.this.startActivity(myIntent);
-        return true;
-    }
+//    //Back Button to Main Page
+//    @Override
+//    public boolean onSupportNavigateUp(){
+//        Intent intent = new Intent(this, SettingsFragment.class);
+//        startActivity(intent);
+//        return true;
+//    }
 
 
 }
