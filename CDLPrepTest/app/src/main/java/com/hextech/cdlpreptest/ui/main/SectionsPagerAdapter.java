@@ -66,7 +66,6 @@ public class SectionsPagerAdapter extends FragmentPagerAdapter {
                 return "Settings";
         }
         return null;
-//        return mContext.getResources().getString(TAB_TITLES[position]);
     }
 
     @Override

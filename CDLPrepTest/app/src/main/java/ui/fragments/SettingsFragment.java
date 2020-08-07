@@ -133,6 +133,7 @@ public class SettingsFragment extends Fragment {
     }
 
     //redirct to privacy policy web page
+    // update link
     public void privacyPolicyShow() {
         privacyPolicyButton.setOnClickListener(new View.OnClickListener()
         {
@@ -145,7 +146,7 @@ public class SettingsFragment extends Fragment {
         });
     }
 
-    //not tested - emulator doesn't show
+    //Update link after uploading to playstore
     public void tellafriend() {
         tellaFreindButton.setOnClickListener(new View.OnClickListener()
         {
