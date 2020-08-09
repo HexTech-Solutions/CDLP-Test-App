@@ -18,6 +18,12 @@
     \u2022 Stop as soon as you have reached the failing score.</string>
     <string name="btn_skip">Skip</string>
     <string name="btn_continue">Continue</string>
+    <string name="customize_questions">Number of questions</string>
+    <string name="customize_mistakes">Number of allowed mistakes</string>
+    <string name="customize_stop_max_mistake">Stop when number of mistakes is reached</string>
+    <string name="customize_feedback">Instant feedback</string>
+    <string name="customize_content">Content setting</string>
+    <string name="btn_save">Save</string>
 </resources>
 
 

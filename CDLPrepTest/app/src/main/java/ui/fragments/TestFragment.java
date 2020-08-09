@@ -17,6 +17,7 @@ import androidx.fragment.app.Fragment;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.hextech.cdlpreptest.CustomizeTestActivity;
 import com.hextech.cdlpreptest.R;
 import com.hextech.cdlpreptest.TestQuestionsActivity;
 
@@ -48,6 +49,14 @@ public class TestFragment extends Fragment {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(getActivity(), TestQuestionsActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        btnCustomizeTest.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getActivity(), CustomizeTestActivity.class);
                 startActivity(intent);
             }
         });

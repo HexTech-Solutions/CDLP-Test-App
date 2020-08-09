@@ -13,6 +13,8 @@
         <activity android:name=".LevelActivity" />
         <activity android:name=".StudyPlanActivity"></activity>
         <activity android:name=".TestQuestionsActivity" />
+        <activity android:name=".CustomizeTestActivity"
+            android:label="Customize Test"/>
         <activity
             android:name=".NavigationTabActivity"
             android:label="@string/title_activity_navigation_tab"
