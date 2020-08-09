@@ -67,7 +67,7 @@ public class SettingsFragment extends Fragment {
             public void onClick(View v)
             {
                 final Dialog d = new Dialog(v.getContext(), R.style.CustomDialog);
-                d.setTitle("TimePicker");
+                d.setTitle("Change State");
                 d.setContentView(R.layout.dialog_set_state);
                 Button okBtn = (Button) d.findViewById(R.id.okButton);
                 Button cancelBtn = (Button) d.findViewById(R.id.cancelButton);
@@ -171,7 +171,7 @@ public class SettingsFragment extends Fragment {
             public void onClick(View v)
             {
                 final Dialog d = new Dialog(v.getContext(), R.style.CustomDialog);
-                d.setTitle("TimePicker");
+                d.setTitle("Set Notifications");
                 d.setContentView(R.layout.dialog_set_notification);
                 Button b1 = (Button) d.findViewById(R.id.button1);
                 Button b2 = (Button) d.findViewById(R.id.button2);
