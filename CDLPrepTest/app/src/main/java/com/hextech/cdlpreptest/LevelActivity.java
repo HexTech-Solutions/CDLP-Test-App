@@ -26,8 +26,6 @@ public class LevelActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_level);
-        //back
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         //button and TextView initilizing
         l1 = (Button) findViewById(R.id.level1Btn);
@@ -231,11 +229,4 @@ public class LevelActivity extends AppCompatActivity {
         adView.loadAd(request);
     }
 
-    //backbutton action
-    @Override
-    public boolean onSupportNavigateUp(){
-        Intent myIntent = new Intent(LevelActivity.this, NavigationTabActivity.class);
-        LevelActivity.this.startActivity(myIntent);
-        return true;
-    }
 }
