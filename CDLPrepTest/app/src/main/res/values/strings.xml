@@ -7,6 +7,8 @@
     <string name="tab_text_3">Tab 3</string>
     <string name="tab_text_4">Tab 4</string>
     <string name="studyPlan">Based on the time remaining until your exam date,
-        We recommend you should mastered over 50 questions per day to get the best exam results </string>
+    We recommend you should mastered over %2$d questions per day to get the best exam results </string>
 
 </resources>
+
+

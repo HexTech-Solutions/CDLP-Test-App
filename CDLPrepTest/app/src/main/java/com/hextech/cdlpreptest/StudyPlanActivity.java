@@ -2,11 +2,13 @@ package com.hextech.cdlpreptest;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
+import android.content.res.Resources;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.DatePicker;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
@@ -14,27 +16,29 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.concurrent.TimeUnit;
 
+import ui.fragments.SettingsFragment;
+
 public class StudyPlanActivity extends AppCompatActivity {
 
     String newDate;
     String formattedDate;
     Button clickButton;
     Date startDate;
-    TextView examTView,remainDaysTxtView;
+    TextView examTView,remainDaysTxtView,detialsTxtView;
     DatePicker datePicker;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_study_plan);
-        //back
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
         //Get current date and time
         startDate = Calendar.getInstance().getTime();
 
         setup();
         calculate();
         changeDetails();
+        emptyDates();
     }
 
     //setup the buttons,textfields etc.
@@ -43,6 +47,7 @@ public class StudyPlanActivity extends AppCompatActivity {
         clickButton = (Button) findViewById(R.id.changeCountButton);
         examTView = (TextView) findViewById(R.id.examDateTxtView);
         remainDaysTxtView = (TextView) findViewById(R.id.remainDaysTxtView);
+        detialsTxtView = (TextView) findViewById(R.id.detailsTextView);
 
         //set the minimum date as today
         datePicker.setMinDate(startDate.getTime());
@@ -83,20 +88,47 @@ public class StudyPlanActivity extends AppCompatActivity {
         });
     }
 
+    //if empty show the default text in details TView
+    public void emptyDates(){
+        if (remainDaysTxtView.getText().toString().isEmpty()){
+            detialsTxtView.setText("Based on the time remaining until your exam date," +
+                    " We will calculate the number of questions you should mastered daily to get the best exam results.");
+        }
+    }
+
     public void changeDetails(){
 
+        //change remaining dates and details view
         clickButton.setOnClickListener( new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
 
                 String dtStart = newDate;
-                SimpleDateFormat format = new SimpleDateFormat("dd-MM-yyyy");
+                Integer questionPerDay = 0;
 
+                SimpleDateFormat format = new SimpleDateFormat("dd-MM-yyyy");
                 int dateDifference = (int) getDateDiff(new SimpleDateFormat("dd-MM-yyyy"), formattedDate, newDate);
                 System.out.println("dateDifference: " + dateDifference);
                 remainDaysTxtView.setText( String.valueOf(dateDifference) + " Days");
                 examTView.setText(newDate);
+
+                //change text field of question count
+                if (dateDifference <= 5 ){
+                    questionPerDay = 150;
+                } else if (dateDifference <= 10 ){
+                    questionPerDay = 120;
+                } else if (dateDifference <= 15 ){
+                    questionPerDay = 100;
+                }else if (dateDifference <= 20 ){
+                    questionPerDay = 80;
+                } else{
+                    questionPerDay = 50;
+                }
+                String questCount = "Number of Questions";
+
+                String text = detialsTxtView.getContext().getString(R.string.studyPlan, questCount, questionPerDay);
+                detialsTxtView.setText(text);
             }
         });
     }
@@ -110,14 +142,4 @@ public class StudyPlanActivity extends AppCompatActivity {
             return 0;
         }
     }
-
-    //Back Button to Main Page
-    @Override
-    public boolean onSupportNavigateUp(){
-        Intent myIntent = new Intent(StudyPlanActivity.this, MainActivity.class);
-        StudyPlanActivity.this.startActivity(myIntent);
-        return true;
-    }
-
-
 }
