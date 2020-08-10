@@ -62,6 +62,22 @@ public class TestFragment extends Fragment {
         });
         return view;
     }
+
+    /**
+     * This is needed to change the values when coming back from customize test activity
+     */
+    @Override
+    public void onResume() {
+        super.onResume();
+
+        SharedPreferences pref = getActivity().getApplicationContext().getSharedPreferences("cdlpref", Context.MODE_PRIVATE); // 0 - for private mode
+        int numQuestions = pref.getInt("numQuestions", 50);
+        int numMistakes = pref.getInt("numMistakes", 10);
+
+        textViewTestInfo2 = view.findViewById(R.id.textViewTestInfo2);
+        setTestInfoValues(numQuestions, numMistakes);
+    }
+
     //adding google ads
     public void addMobAd(){
 
