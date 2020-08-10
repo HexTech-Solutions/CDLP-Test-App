@@ -9,6 +9,14 @@
     <string name="studyPlan">Based on the time remaining until your exam date,
     We recommend you should mastered over %2$d questions per day to get the best exam results </string>
 
+    //Test Values
+    <string-array name="state_names1">
+        <item>tab10</item>
+        <item>tab2</item>
+        <item>tab3</item>
+        <item>tab4</item>
+    </string-array>
+
 </resources>
 
 
