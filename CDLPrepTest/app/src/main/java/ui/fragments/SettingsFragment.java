@@ -1,40 +1,35 @@
 package ui.fragments;
 
-import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.ActivityNotFoundException;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.NumberPicker;
-import android.widget.TextView;
 import android.widget.TimePicker;
-import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.fragment.app.DialogFragment;
 import androidx.fragment.app.Fragment;
-
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.hextech.cdlpreptest.BuildConfig;
-import com.hextech.cdlpreptest.MainActivity;
 import com.hextech.cdlpreptest.R;
 import com.hextech.cdlpreptest.StudyPlanActivity;
-
-import java.sql.Time;
 
 public class SettingsFragment extends Fragment {
 
     Button chanegStateButton,studyPlanButton,sendLoveButton,privacyPolicyButton,tellaFreindButton,notificationButton;
     View view;
     AdView adView;
+    Integer selectedState;
 
     @Nullable
     @Override
@@ -61,34 +56,58 @@ public class SettingsFragment extends Fragment {
 
     //show change state popup
     public void changeState(){
+
         chanegStateButton.setOnClickListener(new View.OnClickListener()
         {
             @Override
             public void onClick(View v)
             {
+
                 final Dialog d = new Dialog(v.getContext(), R.style.CustomDialog);
                 d.setTitle("Change State");
                 d.setContentView(R.layout.dialog_set_state);
                 Button okBtn = (Button) d.findViewById(R.id.okButton);
                 Button cancelBtn = (Button) d.findViewById(R.id.cancelButton);
+                LayoutInflater l = getLayoutInflater();
 
-                //Cancel
+                    final NumberPicker np = (NumberPicker) d.findViewById(R.id.statePicker);
+                //Initializing a new string array with elements
+                final String[] values= getResources().getStringArray(R.array.state_names1);
+
+                //Set min, max, wheel and populate.
+                np.setMinValue(0);
+                selectedState = 0;
+                np.setMaxValue(values.length-1);
+                np.setWrapSelectorWheel(true);
+                np.setDisplayedValues(values);
+                    np.setOnValueChangedListener(new NumberPicker.OnValueChangeListener() {
+                    @Override
+                    public void onValueChange(NumberPicker picker, int oldVal, int newVal) {
+                        selectedState = newVal;
+                    }
+                });
+
+                //OK
                 okBtn.setOnClickListener(new View.OnClickListener()
+                {
+                    @Override
+                    public void onClick(View v) {
+                        SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getContext());
+                        SharedPreferences.Editor editor = prefs.edit();
+                        editor.putInt("State Name", selectedState);
+                        editor.commit();
+                        d.dismiss(); //close dialog
+                    }
+                });
+                //Cancel
+                cancelBtn.setOnClickListener(new View.OnClickListener()
                 {
                     @Override
                     public void onClick(View v) {
                         d.dismiss(); //close dialog
                     }
                 });
-                //Ok
-                cancelBtn.setOnClickListener(new View.OnClickListener()
-                {
-                    @Override
-                    public void onClick(View v) {
-
-                        d.dismiss();
-                    }
-                });
+                //Show Dialog
                 d.show();
             }
         });
@@ -103,7 +122,8 @@ public class SettingsFragment extends Fragment {
             public void onClick(View v)
             {
                 Intent intent = new Intent(getActivity(), StudyPlanActivity.class);
-                startActivity(intent);      }
+                startActivity(intent);
+            }
         });
 
     }
