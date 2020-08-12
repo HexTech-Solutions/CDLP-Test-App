@@ -17,6 +17,34 @@
         <item>tab4</item>
     </string-array>
 
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="state_names">
+        <item>Alabama</item>
+        <item>Chicago</item>
+        <item>San Andreas</item>
+        <item>Los Santos</item>
+        <item>Vice City</item>
+    </string-array>
+
+    <string-array name="learn_titles">
+        <item>General Knowledge</item>
+        <item>Hazmat</item>
+        <item>Passenger Vehicles</item>
+        <item>Air Brake</item>
+        <item>Combination Vehicles</item>
+        <item>Doubles/ Triples Trailers</item>
+        <item>Tanker Vehicles</item>
+        <item>School Bus</item>
+        <item>Pre-Trip</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="review_titles">
+        <item>Weak questions</item>
+        <item>Medium questions</item>
+        <item>Strong questions</item>
+        <item>All familiar questions</item>
+        <item>Your favourite questions</item>
+    </string-array>
 </resources>
-
-
