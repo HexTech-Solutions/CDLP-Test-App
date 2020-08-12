@@ -33,8 +33,8 @@ public class MainActivity extends AppCompatActivity implements StateViewAdapter.
             recyclerView.setAdapter(stateViewAdapter);
             recyclerView.setLayoutManager(new LinearLayoutManager(this));
         }else {
-            Intent intent = new Intent(this, ReviewActivity.class);
-            startActivity(intent);
+//            Intent intent = new Intent(this, ReviewActivity.class);
+//            startActivity(intent);
         }
     }
 
@@ -42,8 +42,8 @@ public class MainActivity extends AppCompatActivity implements StateViewAdapter.
     public void onStateClick(int position) {
         selectedState = stateName[position];
         saveData(selectedState);
-        Intent intent = new Intent(this, ReviewActivity.class);
-        startActivity(intent);
+//        Intent intent = new Intent(this, ReviewActivity.class);
+//        startActivity(intent);
     }
 
     public void saveData(String state){

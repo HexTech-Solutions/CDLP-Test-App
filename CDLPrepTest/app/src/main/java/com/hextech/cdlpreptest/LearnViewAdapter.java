@@ -34,6 +34,7 @@ public class LearnViewAdapter extends RecyclerView.Adapter<LearnViewAdapter.Lear
 
     @Override
     public int getItemCount() {
+        System.out.println("array length - "+dataArray1.length);
         return dataArray1.length;
     }
 
