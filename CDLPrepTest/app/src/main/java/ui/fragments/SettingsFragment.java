@@ -1,11 +1,17 @@
 package ui.fragments;
 
+import android.app.AlarmManager;
 import android.app.Dialog;
+import android.app.NotificationChannel;
+import android.app.NotificationManager;
+import android.app.PendingIntent;
 import android.content.ActivityNotFoundException;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.util.Log;
@@ -15,6 +21,8 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.NumberPicker;
 import android.widget.TimePicker;
+import android.widget.Toast;
+
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
@@ -22,7 +30,11 @@ import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.hextech.cdlpreptest.BuildConfig;
 import com.hextech.cdlpreptest.R;
+import com.hextech.cdlpreptest.ReminderBroadcast;
 import com.hextech.cdlpreptest.StudyPlanActivity;
+
+import java.util.Calendar;
+import java.util.concurrent.TimeUnit;
 
 public class SettingsFragment extends Fragment {
 
@@ -35,6 +47,8 @@ public class SettingsFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         view = inflater.inflate(R.layout.fragment_settings,container,false);
+
+        createNotificationChannel();
 
         chanegStateButton  = (Button) view.findViewById(R.id.changeStateBtn);
         studyPlanButton = (Button) view.findViewById(R.id.studyPlanBtn);
@@ -196,12 +210,15 @@ public class SettingsFragment extends Fragment {
                 Button b1 = (Button) d.findViewById(R.id.button1);
                 Button b2 = (Button) d.findViewById(R.id.button2);
                 final TimePicker np = (TimePicker) d.findViewById(R.id.timePicker);
+
+
                 //Cancel
                 b1.setOnClickListener(new View.OnClickListener()
                 {
                     @Override
                     public void onClick(View v) {
                         d.dismiss(); //close dialog
+
                     }
                 });
                 //Ok
@@ -210,7 +227,25 @@ public class SettingsFragment extends Fragment {
                     @Override
                     public void onClick(View v) {
 
-                        d.dismiss();
+                        Intent intent = new Intent(getActivity().getApplicationContext(), ReminderBroadcast.class);
+                        PendingIntent pendingIntent = PendingIntent.getBroadcast(getActivity().getApplicationContext(),0,intent,0);
+
+                        AlarmManager alarmManager =  (AlarmManager) getActivity().getApplicationContext().getSystemService(Context.ALARM_SERVICE);
+
+                        Calendar calendar = Calendar.getInstance();
+                        calendar.setTimeInMillis(System.currentTimeMillis());
+                        calendar.set(Calendar.HOUR_OF_DAY,np.getHour());
+                        calendar.set(Calendar.MINUTE,np.getMinute());
+                        calendar.set(Calendar.SECOND,0);
+
+                        alarmManager.setInexactRepeating(AlarmManager.RTC_WAKEUP,calendar.getTimeInMillis(),AlarmManager.INTERVAL_DAY,pendingIntent);
+
+                        Toast.makeText(getActivity().getApplicationContext(),
+                                "Notification Set at "+np.getHour() + ":"+np.getMinute(),
+                                Toast.LENGTH_SHORT)
+                                .show();
+                        d.dismiss(); //close dialog
+
                     }
                 });
                 d.show();
@@ -224,6 +259,20 @@ public class SettingsFragment extends Fragment {
         adView = view.findViewById(R.id.adView);
         AdRequest request = new AdRequest.Builder().build();
         adView.loadAd(request);
+    }
+
+    //Create Notification Channel
+    private void createNotificationChannel(){
+        if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.O){
+            CharSequence name = "CDLPrenNotificationChannel";
+            String description = "Channel for CDL Prep";
+            int importance = NotificationManager.IMPORTANCE_DEFAULT;
+            NotificationChannel channel = new NotificationChannel("notifyCdlp",name,importance);
+            channel.setDescription(description);
+
+            NotificationManager notificationManager = getActivity().getSystemService(NotificationManager.class);
+            notificationManager.createNotificationChannel(channel);
+        }
     }
 
 
