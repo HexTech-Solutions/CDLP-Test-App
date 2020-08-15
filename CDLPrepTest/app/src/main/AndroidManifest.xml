@@ -12,13 +12,16 @@
         <activity android:name=".LevelCompletedActivity"></activity>
         <activity android:name=".LevelActivity" />
         <activity android:name=".StudyPlanActivity"></activity>
-        <activity android:name=".QuestionStats">
-        </activity>
+        <activity android:name=".QuestionStats"></activity>
         <activity
             android:name=".NavigationTabActivity"
             android:label="@string/title_activity_navigation_tab"
             android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
         <activity android:name=".ReviewActivity"></activity>
         <activity android:name=".LearnActivity" />
