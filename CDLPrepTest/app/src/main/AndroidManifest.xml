@@ -13,11 +13,6 @@
         <activity android:name=".LevelActivity" />
         <activity android:name=".StudyPlanActivity"></activity>
         <activity android:name=".QuestionStats">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name=".NavigationTabActivity"
