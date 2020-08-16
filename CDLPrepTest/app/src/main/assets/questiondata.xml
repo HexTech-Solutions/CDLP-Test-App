@@ -8,12 +8,519 @@
         <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
     </question>
     <question>
-        <question_text>In air brake vehicles, the parking brakes should be used:</question_text>
+        <question_text>In air brake vehicles, the parking brake should be used: </question_text>
         <category>Air Brakes</category>
         <correct_answer>Anytime the vehicle is parked</correct_answer>
-        <wrong_answer_1>Anytime the vehicle is parked wrong 1</wrong_answer_1>
-        <wrong_answer_2>Anytime the vehicle is parked wrong 2</wrong_answer_2>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
     </question>
+    <question>
+        <question_text>If your antilock braking system is not working, you should: </question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Drive normally, but get the system serviced soon</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Excessive use of service breaks results in overheating, which can lead to: </question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Expansion of the brake drums</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Your truck or bus has a dual air brake system, If a low air pressure warning comes on for only one system</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Stop and safely park. Continue only after the system is fixed</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The air compressor should stop pumping prior to reaching a ____ psi</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>130</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The use of air brakes in downgrade is only a supplement to the: </question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Breaking effect of the engine</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Your truck has properly functioning dial air brake system and minimum size air tanks. The air pressure should build from 85-100 psi within ____ seconds</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>45</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If your truck or bus has dual parking control valves, you can use pressure from a separate tank to: </question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Release the spring emergency parking brakes to move a short distance</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The proper method of braking when going down long and/or steep grades after selecting the proper gear is to brake until your speed limit is about ___ miles per hour below your "safe" speed, and then release your brakes</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>5</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>It is not saft to drive a vehicle that has drake drums (or disks) with cracks or that are thinner than the manufacturer's specifications, generally this will be ___ inch</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>1/4</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>A supply pressure gauge tells you how much pressure is in the</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Anytime the vehicle is parked</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Air braking takes more time than hydraulic braking because air:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Takes more time to flow through the lines than hydraulic fluid.</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>During normal driving, spring brakes are usually held back by: </question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Air pressure</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Some air brake systems have an alcohol evaporator. What may happen if you don't keep the unit filled with alcohol?</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Ice may form in the air storage tanks and cause the brakes to fall</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The brake system that applies and releases the brakes when the driver uses the brake pedal is the _____ brake system</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Service</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>In air brake vehicles, the parking brakes should be used:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Any time the vehicle is parked</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Excessive heat in the brakes can cause the:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Brakes to fade or fall</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>To test air service brakes, you should:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Brake firmly when slowly moving forwards</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You should know your brakes are fading when:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>You have to push the brake pedal harder to control speed on a downgrade</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The air brake system for a straight truck or bus should not leak at a rate of more than _____ psi per minute with the engine off and the brakes released.</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>2</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The braking power of the spring brakes:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Depends on the service brakes being in adjustment</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If your truck has a dual air brake system and one of the systems is low on pressure:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Either the front or rear brakes will not be fully operational</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The parking or emergency brakes of trucks and buses can be legally held on by _____ pressure</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Spring</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Modern air brake systems are three different systems combined together. They are the service, parking, and the ______ brakes</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Emergency</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The air supply pressure gauge shows how much pressure:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Is in the air tanks</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you must make an emergency stop, brake so you:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Can steer and your vehicle stays in a straight line</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The air brake lag distance at 55 mph on dry pavement adds about	___ feet to you stopping distance</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>32</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The spring brakes used on tractors and straight trucks will bring your truck to a stop when the air pressure drops below ___ psi</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>20</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When you apply the brakes. the brake shoes/linings are pressed against the:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Brake drum</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The use of air brakes on a downgrade is only a supplement to the:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Braking effect of the engine</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Why should you drain water from compressed air tanks?</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Water can freeze in cold weather and cause brake failure</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Repeatedly pressing and releasing (fanning) the brake pedal may result in:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>The loss of brake air pressure</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The parking or emergency brakes of trucks and buses can be legally held on by ____ pressure</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Spring</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The air compressor governor controls:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>When air is pumped into the air storage tanks</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The most common type of foundation brake found on heavy vehicles is the:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>S-cam drum</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are on a steep downgrade and have reached your "safe" speed of 40 mph. You would apply the service brakes until your speed drops to ___ mph</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>35</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You should know brakes are fading when:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>You have to push the brake pedal harder to control speed on a downgrade</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Under normal conditions, to engage the parking brake the driver must first: </question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Let the air out of the spring brakes</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you do not have automatic tank drains, how often should you drain the oil and water from the bottom of compressed air storage air tanks?</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>At the end of each day for driving</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When is it OK to leave your truck unattended without applying the parking brake or chocking the wheels?</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Never</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>What is the first thing you should do when a low air pressure warning comes on?</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Stop and safely park as soon as possible</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The brake pedal in an air brake system:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Controls the air pressure applied to put on the brakes</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Before driving a truck or bus with a dual air brake system, the pressure in each system should be at least psi</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>100</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Modern air brake systems are three different systems combined together. They are the service, parking, and the ____ brakes.</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Emergency</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>For air brakes systems in good condition, the air compressor should start pumping at about ___ psi</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>100</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>How should you check that the spring brakes come on when air pressure in the system drops below a certain level?</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Park on level ground, chock the wheels, release the parking brake when you have enough air pressure, shut the engine off, and repeatedly press and release the brake pedal</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The safety valve is set to automatically reduce pressure at ___ psi</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>150</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Total stopping distance for vehicles with air brakes is longer than that for vehicles with hydraulic brakes due to ____ distance.</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Brake lag</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Air braking takes more time than hydraulic braking because air:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Takes more time to flow through the lines than hydraulic fluid</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>How should you check that your service brakes are working properly?</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Wait for normal air pressure, release the parking brake, move the truck forward slowly, and apply the brake firmly using the brake pedal</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The air loss rate for a straight truck or bus with the engine off and the brakes on should not be more than:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>3 psi in one minute</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The proper method of braking when going down long and/or steep grades after selecting the proper gear is to brake until your speed is about ___	miles per hour below your "safe" speed, and then release your brakes</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>5</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>All air brake equipped vehicles have:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>An air supply pressure gauge</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The driver must be able to see a warning before air pressure in the service air tanks falls below ___ psi.</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>55</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If spring brakes are on, when should you push the brake pedal?</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Never</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Emergency controlled braking is when you:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Apply the brakes as hard as you can without locking the wheels.</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Your truck or bus has a dual air brake system. If a low air pressure warning comes on for only one system, what should you do?</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Stop and safely park. Continue only after the system is fixed</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When you apply the brakes, the brake shoes/linings re pressed against the:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Brake drum</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The most important thing to do when a low air pressure warning comes on is:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Stop and safely park as soon as possible</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If your vehicle has an alcohol evaporator, every day during cold weather you should:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Check and fill the alcohol level</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Total stopping distance for vehicles with air brakes is longer than that for vehicles with hydraulic brakes due to ____ distance</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Brake lag</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When is it OK to leave your truck unattended without applying the parking brake or chocking the wheels?</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Never</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Some air brake systems have an alcohol evaporator. What may happen if you don't keep the unit filled with alcohol?</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Ice may form in the air storage tanks and cause the brakes to fail</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The modulating control valve allows you to control the:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Spring brakes</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The S-cam:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Forces the brake shoes against the inside of the brake drum</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The S-cam:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Forces the brake shoes against the inside of the brake drum</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>What is emergency stab braking?</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Brake hard, release the brakes when the wheels lock, and reapply the brakes when the wheels start rolling</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If your truck or bus has dual parking control valves, you can use pressure from a separate tank to:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Release the spring emergency/parking brakes to move a short distance</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is not a proper time to apply the parking breaks?</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>When your brakes are very hot</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The application pressure gauge shows how much air pressure you:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Are applying to the brakes</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The air brake lag distance at 55 mph on dry pavement adds about __ feet to your stopping distance</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>32</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If pressure does not build up fast enough within the correct amount of time:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Your air pressure may drop too low during driving</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The stop light switch:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>-  Turns on the brake lights to warn drivers behind you</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+
+
+
     <question>
         <question_text>You can be fined up to $1000 and jailed for six months if you are cited for:</question_text>
         <category>Class C</category>
