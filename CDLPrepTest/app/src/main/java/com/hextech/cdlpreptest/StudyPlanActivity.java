@@ -2,8 +2,10 @@ package com.hextech.cdlpreptest;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.res.Resources;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.view.View;
 import android.widget.Button;
 import android.widget.DatePicker;
@@ -112,6 +114,13 @@ public class StudyPlanActivity extends AppCompatActivity {
                 System.out.println("dateDifference: " + dateDifference);
                 remainDaysTxtView.setText( String.valueOf(dateDifference) + " Days");
                 examTView.setText(newDate);
+
+                SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
+                SharedPreferences.Editor editor = preferences.edit();
+                editor.putInt("Day",datePicker.getDayOfMonth());
+                editor.putInt("Month",datePicker.getMonth());
+                editor.putInt("Year",datePicker.getYear());
+                editor.apply();
 
                 //change text field of question count
                 if (dateDifference <= 5 ){
