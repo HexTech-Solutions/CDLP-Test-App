@@ -226,19 +226,31 @@ public class SettingsFragment extends Fragment {
                 {
                     @Override
                     public void onClick(View v) {
+                        Calendar calendar = Calendar.getInstance();
+                        calendar.setTimeInMillis(System.currentTimeMillis());
+
+                        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(getActivity().getApplicationContext());
+                        int day = preferences.getInt("Day", 0);
+                        int month = preferences.getInt("Month",0);
+                        int year = preferences.getInt("Year",0);
+                        if(day != 0 && month != 0 && year != 0)
+                        {
+
+                            calendar.set(Calendar.DAY_OF_MONTH, day);
+                            calendar.set(Calendar.MONTH,month);
+                            calendar.set(Calendar.YEAR,year);
+                        }
 
                         Intent intent = new Intent(getActivity().getApplicationContext(), ReminderBroadcast.class);
                         PendingIntent pendingIntent = PendingIntent.getBroadcast(getActivity().getApplicationContext(),0,intent,0);
 
                         AlarmManager alarmManager =  (AlarmManager) getActivity().getApplicationContext().getSystemService(Context.ALARM_SERVICE);
 
-                        Calendar calendar = Calendar.getInstance();
-                        calendar.setTimeInMillis(System.currentTimeMillis());
                         calendar.set(Calendar.HOUR_OF_DAY,np.getHour());
                         calendar.set(Calendar.MINUTE,np.getMinute());
                         calendar.set(Calendar.SECOND,0);
 
-                        alarmManager.setInexactRepeating(AlarmManager.RTC_WAKEUP,calendar.getTimeInMillis(),AlarmManager.INTERVAL_DAY,pendingIntent);
+                        alarmManager.setRepeating(AlarmManager.RTC_WAKEUP,calendar.getTimeInMillis(),AlarmManager.INTERVAL_DAY,pendingIntent);
 
                         Toast.makeText(getActivity().getApplicationContext(),
                                 "Notification Set at "+np.getHour() + ":"+np.getMinute(),
