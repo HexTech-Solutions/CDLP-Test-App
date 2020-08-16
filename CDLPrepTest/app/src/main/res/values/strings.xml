@@ -28,6 +28,7 @@
     <string name="pass_message">Passed!</string>
     <string name="fail_message">Failed!</string>
     <string name="btn_start_again">Start Again</string>
+    <string name="btn_review_result">Review Result</string>
 
     <string-array name="learn_areas">
         <item>Air Brakes</item>

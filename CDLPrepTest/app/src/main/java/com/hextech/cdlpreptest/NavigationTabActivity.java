@@ -1,6 +1,7 @@
 package com.hextech.cdlpreptest;
 
 import android.content.Intent;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.tabs.TabLayout;
@@ -8,6 +9,7 @@ import androidx.viewpager.widget.ViewPager;
 import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 import com.hextech.cdlpreptest.ui.main.SectionsPagerAdapter;
+import com.hextech.cdlpreptest.util.DBHelper;
 
 public class NavigationTabActivity extends AppCompatActivity {
 
@@ -24,6 +26,10 @@ public class NavigationTabActivity extends AppCompatActivity {
         TabLayout tabs = findViewById(R.id.tabs);
         tabs.setupWithViewPager(viewPager);
         FloatingActionButton fab = findViewById(R.id.fab);
+
+        //To initialize the database when the application starts
+        DBHelper database = new DBHelper(getApplicationContext());
+        SQLiteDatabase database1 = database.getWritableDatabase();
 
         fab.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
