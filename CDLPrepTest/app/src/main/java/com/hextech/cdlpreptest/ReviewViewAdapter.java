@@ -13,15 +13,14 @@ import androidx.recyclerview.widget.RecyclerView;
 
 public class ReviewViewAdapter extends RecyclerView.Adapter<ReviewViewAdapter.ReviewViewHolder> {
 
-    String dataArray1[], dataArray2[];
+    String dataArray1[];
     int icons[];
     Context context;
     private OnReviweListener mOnReviewListener;
 
-    public ReviewViewAdapter(Context ct, String reviewTitle[], String reviewDesc[], int icon[], OnReviweListener onReviweListener){
+    public ReviewViewAdapter(Context ct, String reviewTitle[], int icon[], OnReviweListener onReviweListener){
         context = ct;
         dataArray1 = reviewTitle;
-        dataArray2 = reviewDesc;
         icons = icon;
         this.mOnReviewListener = onReviweListener;
     }
@@ -37,7 +36,6 @@ public class ReviewViewAdapter extends RecyclerView.Adapter<ReviewViewAdapter.Re
     @Override
     public void onBindViewHolder(@NonNull ReviewViewHolder holder, int position) {
         holder.title.setText(dataArray1[position]);
-        holder.description.setText(dataArray2[position]);
         holder.icon.setImageResource(icons[position]);
     }
 
@@ -48,14 +46,13 @@ public class ReviewViewAdapter extends RecyclerView.Adapter<ReviewViewAdapter.Re
 
     public class ReviewViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
 
-        TextView title, description;
+        TextView title;
         ImageView icon;
         OnReviweListener onReviweListener;
 
          public ReviewViewHolder(@NonNull View itemView, OnReviweListener onReviweListener) {
             super(itemView);
              title = itemView.findViewById(R.id.reviewTitle);
-             description = itemView.findViewById(R.id.reviewQuestionCount);
              icon = itemView.findViewById(R.id.reviewRowIcon);
              this.onReviweListener = onReviweListener;
              itemView.setOnClickListener(this);

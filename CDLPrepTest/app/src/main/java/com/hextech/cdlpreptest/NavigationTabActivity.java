@@ -25,22 +25,9 @@ public class NavigationTabActivity extends AppCompatActivity {
         viewPager.setAdapter(sectionsPagerAdapter);
         TabLayout tabs = findViewById(R.id.tabs);
         tabs.setupWithViewPager(viewPager);
-        FloatingActionButton fab = findViewById(R.id.fab);
 
         //To initialize the database when the application starts
         DBHelper database = new DBHelper(getApplicationContext());
         SQLiteDatabase database1 = database.getWritableDatabase();
-
-        fab.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-
-
-                Intent i = new Intent(getApplicationContext(),LevelActivity.class);
-                i.putExtra("SelectedTest",topic);
-                i.putExtra("QuestionCount1", qCount);
-                startActivity(i);
-            }
-
-        });
     }
 }
