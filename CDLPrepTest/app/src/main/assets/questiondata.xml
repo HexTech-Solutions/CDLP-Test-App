@@ -570,6 +570,7 @@
 
 
 
+
     <question>
         <question_text>You can be fined up to $1000 and jailed for six months if you are cited for:</question_text>
         <category>Class C</category>
@@ -583,6 +584,1672 @@
         <correct_answer>Pass other vehicles</correct_answer>
         <wrong_answer_1>Pass other vehicles wrong 1</wrong_answer_1>
         <wrong_answer_2>Pass other vehicles wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Do not cross double solid yellow lines in the center of the roadway to:</question_text>
+        <category>Class C</category>
+        <correct_answer>Pass other vehicles</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When stopped at railroad tracks with multiple tracks, cross:</question_text>
+        <category>Class C</category>
+        <correct_answer>Only when you can see clearly in both directions.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Use your hi-beam headlights at night</question_text>
+        <category>Class C</category>
+        <correct_answer>Whenever it is legal and safe.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Where should you stop your vehicle if there is no crosswalk or limit line?</question_text>
+        <category>Class C</category>
+        <correct_answer> Fifteen feet before the corner.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving on a five-lane freeway in the lane closest to the center divider. To exit the freeway on the right you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Change lanes one at a time until you are in the proper lane </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are approaching an intersection. The traffic signla light is flashing red. What you should do?</question_text>
+        <category>Class C</category>
+        <correct_answer>Stop before entering, and then proceed when safe </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You should usually drive your vehicle slower when you:</question_text>
+        <category>Class C</category>
+        <correct_answer>Are near schools, playgrounds and in residential areas.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You must notify the DMV within 5 days if you:</question_text>
+        <category>Class C</category>
+        <correct_answer>Sell or transfer your vehicle.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You want to back out of an angled parking space. You should always back slowly and look:</question_text>
+        <category>Class C</category>
+        <correct_answer>Over your right shoulder as you back up.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Unless otherwise posted, the speed light in a business district is:</question_text>
+        <category>Class C</category>
+        <correct_answer>25 mph.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>There are two traffic lanes in your direction. You are driving in the left lane and many cars are passing you on the right. You should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Move over into the right lane when it is safe.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>A large truck is driving in the middle of three lanes. You want to pass the large truck. It is best to pass:</question_text>
+        <category>Class C</category>
+        <correct_answer>Quickly on the left and move ahead of it.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>It is illegal to leave a child siz years of age or younger un attended in a motor vehicle:</question_text>
+        <category>Class C</category>
+        <correct_answer>When the keys are in the ignition.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>It is illegal for a person 21 years of age or older to drive with a blood alcohol concentration(BAC) the is ____ or higher?</question_text>
+        <category>Class C</category>
+        <correct_answer>0.008% - eight hundredths of one percent.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If another driver "cuts" in front of you, it would be better if you:</question_text>
+        <category>Class C</category>
+        <correct_answer>Take your food off the gas.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving slowly in the fast lane of a four-lane highway. There is traffic behind your lane. The driver behind you wishes to drive faster. You should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Change lanes to the right when safe to do so.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>On the sharp curve, you should use your brakers to slow your vehicle:</question_text>
+        <category>Class C</category>
+        <correct_answer>Before you enter the curve.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You must yield the right-of-way to an emergency vehicle by:</question_text>
+        <category>Class C</category>
+        <correct_answer>Driving as near to the right edge of the road as possible and stopping.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving on a divided street with multiple lanes in your directions. If you need to make a U turn, where should you start?</question_text>
+        <category>Class C</category>
+        <correct_answer>In the left lane.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you are involved in an accident, You must exchange with the other person(s) involved your driver's licence information and:</question_text>
+        <category>Class C</category>
+        <correct_answer>Proof of insurance, vehicle registration and current address </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you are caught driving with a blood alcohol concentration(BAC) at or above the legal limit:</question_text>
+        <category>Class C</category>
+        <correct_answer>You will be issued and order suspending your driving privilege.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When you are in a dedicated turn lane controlled by a green arrow, which of the following is true?</question_text>
+        <category>Class C</category>
+        <correct_answer>All oncoming vehicles and pedestrians are stopped by red lights.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>There is one lane in your direction and the vehicle ahead of you often slows down for no apparent reason. In this situation you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Increase the following distance between you and the other vehicle.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Driving the slower than the traffic flow tends to:</question_text>
+        <category>Class C</category>
+        <correct_answer>Make an accident more likely to happen.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>What is the best advice for driving when heavy fog or dust occurs?</question_text>
+        <category>Class C</category>
+        <correct_answer>Try not to drive until the conditions improve.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Turn your front wheels towards the curb when you park:</question_text>
+        <category>Class C</category>
+        <correct_answer>Facing downhill.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If an oncoming vehicle has started to turn left in front of you:</question_text>
+        <category>Class C</category>
+        <correct_answer>Slow or stop your car to prevent an accident.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When you back in a passenger vehicle:</question_text>
+        <category>Class C</category>
+        <correct_answer>Look over your right shoulder through your rear window.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is true about other drivers?</question_text>
+        <category>Class C</category>
+        <correct_answer>Never assume other drivers will give you the right-of-way.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When looking ahead of your vehicle while driving, you should look:</question_text>
+        <category>Class C</category>
+        <correct_answer>Back and forth, near and far.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are waiting to turn left in to a drive way; a car is approaching from the opposite direction with a tunr signal on. You should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Wait until the other car starts its turn before making your turn.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When driving a vehicle with airbags, you are safest when seated:</question_text>
+        <category>Class C</category>
+        <correct_answer>At least 10 inches away from the steering wheel.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When sharing the road with a light rail vehicle, you:</question_text>
+        <category>Class C</category>
+        <correct_answer>Should monitor all traffic signals closely because they can change for the light rail vehicle.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Large trucks are most likely to lose speed and cause a hazard:</question_text>
+        <category>Class C</category>
+        <correct_answer>Going up long or steep hills.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You should not pass another vehicle:</question_text>
+        <category>Class C</category>
+        <correct_answer>Where someone is likely to enter or cross the road.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of the following children requires a child passenger restraint system?</question_text>
+        <category>Class C</category>
+        <correct_answer>A five-year old weighing 55 pounds.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When parking next to a curb, you should turn your turn signals:</question_text>
+        <category>Class C</category>
+        <correct_answer>When pulling next to or away from the curb.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Merging on to a road is safest if you:</question_text>
+        <category>Class C</category>
+        <correct_answer>Wait for a large enough gap in traffic to enter the road </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When driving in the far right lane of the freeway, you:</question_text>
+        <category>Class C</category>
+        <correct_answer>Should expect merging vehicles at on ramps.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are entering a freeway, you should check traffic by using:</question_text>
+        <category>Class C</category>
+        <correct_answer>All mirrors and turning your head.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Driving slowly in front of traffic in the far lest(fast) lane on the freeway:</question_text>
+        <category>Class C</category>
+        <correct_answer>Can frustrate other drivers and make them angry.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you cannot stop safely at a yellow traffic light, you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Enter the intersection carefully and continue across.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>In california, anyone who drives a motor vehicle has consented to take chemical test for the alcohol content of his or her blood, breath, or urine:</question_text>
+        <category>Class C</category>
+        <correct_answer>If asked by law enforcement.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You must yield to pedestrian using white cane or guide dog:</question_text>
+        <category>Class C</category>
+        <correct_answer>Always, even if the pedestrian is not obeying traffic controls.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Accidents tent to happen when:</question_text>
+        <category>Class C</category>
+        <correct_answer>One vehicle is traveling faster or slower than the flow of traffic.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When should you use your headlights?</question_text>
+        <category>Class C</category>
+        <correct_answer>Any time you have trouble seeing others or being seen.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Driving alone the right-rear side of another vehicle is:</question_text>
+        <category>Class C</category>
+        <correct_answer>Dangerous because you're probably on one of the driver's blind spots.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You hit a parked car and can't find the owner. What you must do?</question_text>
+        <category>Class C</category>
+        <correct_answer>Leave a note with your name and address on the parked car.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Solid yellow lines separate:</question_text>
+        <category>Class C</category>
+        <correct_answer>Vehicles traveling in opposite directions.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The maximum speed limit ideal driving condition is:</question_text>
+        <category>Class C</category>
+        <correct_answer>The posted speed for the road or freeway you are using.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are crossing an intersection and an emergancy vehicle is approaching with a siren and flashing lights. You should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Continue through the intersection, pull to the right, and stop.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you park along the right-hand-curb facing uphill you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Turn your front wheels to the left.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You must carefully watch for bicycles in traffic lanes because they:</question_text>
+        <category>Class C</category>
+        <correct_answer>Could be hidden in your blind spots.
+        </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Orange-colored road signs:</question_text>
+        <category>Class C</category>
+        <correct_answer>Tell you of road workers or road equipment ahead.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If the road is wet from heavy rain, you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Increase the distance between your vehicle and the car ahead.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Weaving in and out of freeway lanes during heavy traffic:</question_text>
+        <category>Class C</category>
+        <correct_answer>Causes further traffic congestion by slowing down other vehicles.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If its starts to rain on a hot day, the road is the most slippery: </question_text>
+        <category>Class C</category>
+        <correct_answer>For the first few minutes.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of the following is true about use of your signals? </question_text>
+        <category>Class C</category>
+        <correct_answer>It is a good habit to always signal for lane changes.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You may legally park your car:</question_text>
+        <category>Class C</category>
+        <correct_answer>On the shoulder of a freeway in an emergency.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are traveling on a road with only one lane in your direction. Many cars are pulling out to pass you. You should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Use a turnout area so the other vehicles can pass you.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You may turn right on a solid red light:</question_text>
+        <category>Class C</category>
+        <correct_answer>Only after stopping, unless otherwise posted.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you are arrested for drunk driving and refuse to take a test of your blood alcohol concentration (BAC): </question_text>
+        <category>Class C</category>
+        <correct_answer>Your license will be suspended for at least one year.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You should increase the distance between your car and the vehicle ahead when you:</question_text>
+        <category>Class C</category>
+        <correct_answer>Are being tailgated by another driver.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You may not park a passenger vehicle at any time:</question_text>
+        <category>Class C</category>
+        <correct_answer>Next to a curb painted red.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>While driving, you should look 10 to ___ 15 seconds ahead of you:</question_text>
+        <category>Class C</category>
+        <correct_answer> To see potential hazards early.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are approaching an intersection with a flashing yellow signal light. What should you do?</question_text>
+        <category>Class C</category>
+        <correct_answer>Slow down and cross carefully.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving 55 mph in the far left (fast) lane of a freeway posted for 65 mph. You could be cited for driving too slowly: </question_text>
+        <category>Class C</category>
+        <correct_answer>If you block the normal and reasonable flow of traffic.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about motorcycles </question_text>
+        <category>Class C</category>
+        <correct_answer>Motorcycles should be followed at a greater distance.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When can you drive using only your parking lights?</question_text>
+        <category>Class C</category>
+        <correct_answer>Under no circumstances.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>A person may legally ride in the back of a pickup truck when:</question_text>
+        <category>Class C</category>
+        <correct_answer>In secured seats and using approved safety belts.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>It is night; a car coming towards you has its high beams on which makes it hard to see the road ahead. You should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Look ahead towards the right edge of your lane.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Two sets of solid double yellow lines spaced two feet or more apart: </question_text>
+        <category>Class C</category>
+        <correct_answer>Should be treated like a solid wall and not be crossed </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about blind spots?</question_text>
+        <category>Class C</category>
+        <correct_answer>Look over your right shoulder for a right lane change and your left shoulder for a left lane change.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>At an uncontrolled intersection where you can't see cross traffic until you are just about to enter the intersection, 	the speed limit is:</question_text>
+        <category>Class C</category>
+        <correct_answer>15 mph</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about large trucks? </question_text>
+        <category>Class C</category>
+        <correct_answer>They take longer to shop than passenger cars.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you're driving and finding it hard to stay awake, you should: </question_text>
+        <category>Class C</category>
+        <correct_answer>Pull off the road and rest.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Use your headlights on rainy, snowy, or foggy days: </question_text>
+        <category>Class C</category>
+        <correct_answer>So other drivers can see you.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You must make a written report (SR1) to DMV when:</question_text>
+        <category>Class C</category>
+        <correct_answer>You are involved in an accident and there is an injury.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Safely backing your vehicle includes all of the following except:</question_text>
+        <category>Class C</category>
+        <correct_answer>Tapping your horn before your back up.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are waiting to turn right at a red traffic light. There is a pedestrian on the right side of your vehicle waiting to 	cross the street you want to enter. Who has the right-of-way when your light turns green?</question_text>
+        <category>Class C</category>
+        <correct_answer> The pedestrian has the right-of-way.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When may you legally go around or under railroad crossing gate? </question_text>
+        <category>Class C</category>
+        <correct_answer>Under no circumstances.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are stopped, you want to make a left turn but there are oncoming vehicles close by, You should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Give the oncoming vehicles the right-of-way.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is the proper way to change lanes?</question_text>
+        <category>Class C</category>
+        <correct_answer>Signal and look over your shoulder before you change lanes.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Unless prohibited by a sign, you make a U-turn at: </question_text>
+        <category>Class C</category>
+        <correct_answer>Green lights and green arrows.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If your vehicle starts to lose traction because of the water on the road (hydroplane), you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Slow down gradually and not apply the brakes.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you are unable to see the road ahead while driving because of heavy fog and your wipers do not help, you should: </question_text>
+        <category>Class C</category>
+        <correct_answer>Pull off the road completely until visibility improves </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Whose responsibility is it to know how your medication affects your driving? </question_text>
+        <category>Class C</category>
+        <correct_answer>Yours.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Even if you know your vehicle can maneuver a sharp curve at the legal speed limit, you should still slow because:</question_text>
+        <category>Class C</category>
+        <correct_answer>There may be a stalled car or accident ahead that you can't see.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You see a car approaching from the rear, when you check your mirror again to change lanes you no longer see the car. You should: </question_text>
+        <category>Class C</category>
+        <correct_answer>Look over your shoulder to be sure the car isn't in your blind spot.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When parked on any hill, always set your parking brake and:</question_text>
+        <category>Class C</category>
+        <correct_answer>Leave your vehicle in gear or the "park" position.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Other drivers are not making room for you to merge onto a freeway with heavy traffic. It is absolutely necessary, you may: </question_text>
+        <category>Class C</category>
+        <correct_answer>Stop before merging with freeway traffic.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of the following is true about safety belts and accidents?</question_text>
+        <category>Class C</category>
+        <correct_answer>They increase your chances of survival in most types of accidents.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Allow extra space in front of your vehicle when following a :</question_text>
+        <category>Class C</category>
+        <correct_answer>Larger tour bus.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When you look ahead while driving, it is best to: </question_text>
+        <category>Class C</category>
+        <correct_answer>Look beyond the car ahead of you.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving 55 mph on a two-lane-highway, one lane in each direction, and you want to pass the car ahead of you. To pass safety, you need to: </question_text>
+        <category>Class C</category>
+        <correct_answer>Have a large enough gap in the oncoming traffic.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which way do you turn front wheels to park downhill next to a curb? </question_text>
+        <category>Class C</category>
+        <correct_answer>Into the curb.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>It is against the la to enter an intersection when:</question_text>
+        <category>Class C</category>
+        <correct_answer>You can't get all the way across before the light turns red.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>U-turns in business districts are:</question_text>
+        <category>Class C</category>
+        <correct_answer>Legal only at intersections, unless a sign prohibits them.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Always look carefully for motorcycles before you make a turn because:</question_text>
+        <category>Class C</category>
+        <correct_answer>Their smaller size makes them harder to see.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When driving in a traffic at night on a dimly light street, you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Drive slowly enough so you can stop within area lighted by your headlights.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which way should your front wheels be turned when parked uphill next to a curb?</question_text>
+        <category>Class C</category>
+        <correct_answer>Away from the curb</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>A law enforcement officer notices that one of your passengers is not wearing a seatbelt and writes a citation. Which of the following is true? </question_text>
+        <category>Class C</category>
+        <correct_answer>You may receive the citation if the passenger is 15 or younger.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are at a red traffic signal. The traffic light turns green, but there are still other vehicles in the intersection. You should:
+        </question_text>
+        <category>Class C</category>
+        <correct_answer>Wait until the vehicles clear the intersection before entering.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>To make a right turn onto a two-way street from a two-way street, start in the right-hand lane and end in:</question_text>
+        <category>Class C</category>
+        <correct_answer> The lane closest to the curve.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When passing another vehicle, it is safe to return to your lane if you:</question_text>
+        <category>Class C</category>
+        <correct_answer>See the vehicle's headlights in your rearview mirror.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you see the orange construction signs or cones on freeway, you must:</question_text>
+        <category>Class C</category>
+        <correct_answer>Be prepared for workers and equipment ahead.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You should dim your lights for oncoming vehicles or when you are within 300 feet of a vehicle:</question_text>
+        <category>Class C</category>
+        <correct_answer>You are approaching from behind.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You should always turn on your emergency flashers when: </question_text>
+        <category>Class C</category>
+        <correct_answer>Your car has broken down on the road way.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Generally speaking, you are in a large truck's blind spot if you:</question_text>
+        <category>Class C</category>
+        <correct_answer>Can't see the truck driver in the truck's side mirrors.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are going to make a left turn from a dedicated left-turn lane when a yellow arrow appears for your lane. You should: </question_text>
+        <category>Class C</category>
+        <correct_answer>Be prepared to obey the next signal that appears </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>At night, if an oncoming vehicle fails to dim its high beams, look:</question_text>
+        <category>Class C</category>
+        <correct_answer>Toward the right edge of your lane.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The "three-second rule" applies to the space ___ of your vehicle:</question_text>
+        <category>Class C</category>
+        <correct_answer>Ahead</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Following closely behind another vehicle (tailgating):</question_text>
+        <category>Class C</category>
+        <correct_answer>Is a common cause of rear-end accidents.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When roads are slippery, you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Avoid making fast turns and fast stops.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If the roadway is wet and your car starts to skid, you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Slowly ease your foot of the gas pedal.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When traffic is flow and heavy and you must cross railroad tracks before reaching the upcoming intersection, you should:
+        </question_text>
+        <category>Class C</category>
+        <correct_answer>Wait until you can completely cross the tracks before proceeding.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When sharing the road with a light rail vehicle:</question_text>
+        <category>Class C</category>
+        <correct_answer>Never turn in front of an approaching light rail vehicle.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you are towing another vehicle or trailer on a freeway with four lanes in your direction, you may travel in:</question_text>
+        <category>Class C</category>
+        <correct_answer>Either of the two right lanes.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is a legal U-turn? </question_text>
+        <category>Class C</category>
+        <correct_answer>On a highway where there is a paved opening for a turn.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Who has the right-of-way at an intersection with no crosswalks?</question_text>
+        <category>Class C</category>
+        <correct_answer>Pedestrians always have the right-of-way.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If five or more vehicles are following you on a narrow two-lane road:</question_text>
+        <category>Class C</category>
+        <correct_answer>Pull off the road when it is safe and let them pass.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>All children under age six riding in your vehicle must be use a child passenger restraint system unless:</question_text>
+        <category>Class C</category>
+        <correct_answer>They weigh 60 pounds or ore.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving at night on a dimly lit street and using high beams, you should dim your lights when you are within 500 feet of: </question_text>
+        <category>Class C</category>
+        <correct_answer>An oncoming vehicle.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are crossing an intersection and an emergency vehicle is approaching with a siren and flashing lights. You should:
+        </question_text>
+        <category>Class C</category>
+        <correct_answer>Continue through the intersection, pull to the right, and stop.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text> You are approaching sharp curve in the road, you should: </question_text>
+        <category>Class C</category>
+        <correct_answer>Start braking before you enter the curve.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are stopped at an intersection. The traffic light just turned green, should you go immediately?</question_text>
+        <category>Class C</category>
+        <correct_answer>Yes, but yield to any vehicle or person still in the intersection.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>It is very foggy. You should slow down and turn on your:</question_text>
+        <category>Class C</category>
+        <correct_answer>Low beam lights.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If a driver looks like he or she is going to pull in front of you, the safest thing to do is:</question_text>
+        <category>Class C</category>
+        <correct_answer>Slow or stop your car and use your horn.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you approach and intersection without a stop sign or signals, you: </question_text>
+        <category>Class C</category>
+        <correct_answer> Should slow down and be ready to stop, if necessary.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When driving near road construction zones, you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Pass the construction zone carefully and avoid "rubbernecking"</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You may legally park your car in front of a driveway:</question_text>
+        <category>Class C</category>
+        <correct_answer>Under no circumstances.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>It is a good habit to signal continuously during the last 100 feet before you turn at an intersection:</question_text>
+        <category>Class C</category>
+        <correct_answer>Even if you do not see any other vehicles around.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You must notify law enforcement and make a written report (SR1) to DMV if:</question_text>
+        <category>Class C</category>
+        <correct_answer>You are involved in an accident and there is a death.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You park your car at the curb on a level two-way street. Before getting out of your car, you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Look for cars or bicycles on the traffic side of your vehicle.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you approach to a curve on the top of a hill and you do not have a clear view of the road ahead, you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Slow down so you can stop if necessary</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The lane in the middle of a two-way street is used to:</question_text>
+        <category>Class C</category>
+        <correct_answer>Begin or end left turns, or start a permitted U-turn</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>To see vehicles in your blind spots, you must look:</question_text>
+        <category>Class C</category>
+        <correct_answer>Over your shoulders.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>A solid yellow line next to a broken yellow line means that vehicles:</question_text>
+        <category>Class C</category>
+        <correct_answer> Next to the broken line may pass.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are involved in a minor accident at an intersection. There are no injuries and very little vehicle damage. You should: </question_text>
+        <category>Class C</category>
+        <correct_answer>Move your vehicle out of the traffic lane, if possible.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>What is the benefit of the space cushion around your car?
+        </question_text>
+        <category>Class C</category>
+        <correct_answer> If another driver makes a mistake, you have time to react.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Blocking an intersection during "rush hour" traffic is not permitted:</question_text>
+        <category>Class C</category>
+        <correct_answer>Under any circumstances, even if your light is green.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When you don't see any other vehicles around you while driving:</question_text>
+        <category>Class C</category>
+        <correct_answer>It is a good habit to signal for turn and lane changes anyway.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>A flashing yellow traffic signal at an intersection means: </question_text>
+        <category>Class C</category>
+        <correct_answer>Slow down and be alert at the upcoming intersection.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>California's "Basic Speed Law" says you must:</question_text>
+        <category>Class C</category>
+        <correct_answer>Never drive faster than is safe for current conditions.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving on a city street and see an emergency vehicle with flashing lights behind you. What should you do? </question_text>
+        <category>Class C</category>
+        <correct_answer>Drive to the right edge of the road and stop.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You must stop at an intersection ahead. Just before the intersection, you have to cross railroad tracks. You should stop before you cross the railroad tracks when: </question_text>
+        <category>Class C</category>
+        <correct_answer>You don't have room to completely cross the tracks.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You reach an intersection with stop signs on all four corners at the same time as the driver on your left. Who has the right-of-way?
+        </question_text>
+        <category>Class C</category>
+        <correct_answer>You have the right-of-way.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about slippery road surfaces?</question_text>
+        <category>Class C</category>
+        <correct_answer>On cold days, shade from buildings or trees can hide spots of ice.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Backing your vehicle is:</question_text>
+        <category>Class C</category>
+        <correct_answer>Always dangerous to do.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of the following is true about roadways on bridges and overpasses in cold, wet weather?</question_text>
+        <category>Class C</category>
+        <correct_answer>They tend to freeze before the rest of the road does.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Drivers are required to obey instructions from:</question_text>
+        <category>Class C</category>
+        <correct_answer>Signal persons at construction sites.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Scanning while you drive means you:</question_text>
+        <category>Class C</category>
+        <correct_answer>Keep your eyes moving to look for possible driving dangers
+        </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you are driving in a vehicle equipped with a lap belt and also a separate shoulder belt, you are:</question_text>
+        <category>Class C</category>
+        <correct_answer>Required to use both the lap and shoulder belts.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Tailgating other drivers	(driving too close to their rear bumper):</question_text>
+        <category>Class C</category>
+        <correct_answer>Can frustrate other drivers and make them angry.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When driving on a multilane street with two-way traffic:</question_text>
+        <category>Class C</category>
+        <correct_answer>You should drive ahead of or behind the other vehicles.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Driving under the influence of any medication with impairs your driving is permitted:</question_text>
+        <category>Class C</category>
+        <correct_answer>Under no circumstances.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You want to park uphill on a two-way road and there is no curb. Which way do you turn your front wheels?</question_text>
+        <category>Class C</category>
+        <correct_answer>Right-towards the side of the road.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are on a two-way street with two lanes in each direction. To turn left, start the turn in:</question_text>
+        <category>Class C</category>
+        <correct_answer>The left lane for traffic in your direction.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You may drive in a bike lane:</question_text>
+        <category>Class C</category>
+        <correct_answer>No more than 200 feet before making a right turn.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>No more than 200 feet before making a right turn. 177. A flashing red traffic light at an intersection means: </question_text>
+        <category>Class C</category>
+        <correct_answer>Stop before entering.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>A freeway onramp is marked with a Carpool sign that reads "Carpools 3 or more only." Which of the following vehicles may use this lane?
+        </question_text>
+        <category>Class C</category>
+        <correct_answer>A convertible with an adult and two children.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are on the freeway and traffic is merging into your lane. You should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Make room for the merging traffic, if possible.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>While all of the following are dangerous to do while driving, which is also illegal?</question_text>
+        <category>Class C</category>
+        <correct_answer>Listening to music through a set of dual headphones.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of the following is true about double parking?</question_text>
+        <category>Class C</category>
+        <correct_answer>It is illegal under all circumstances.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving on the freeway behind a large truck. You should drive:</question_text>
+        <category>Class C</category>
+        <correct_answer>Farther behind the truck than for a passenger car.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If there is no crosswalk and you see a pedestrian crossing your lane, you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Stop and let him or her finish crossing.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>To turn left from a one-way street with multiple lanes onto a two-way street, start the turn in:</question_text>
+        <category>Class C</category>
+        <correct_answer>The far left lane</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are going to make a left from a dedicated left-turn lane when a yellow arrow appears for your lane. You should: </question_text>
+        <category>Class C</category>
+        <correct_answer>Be prepared to obey the next signal that appears.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>At night, if an oncoming vehicle fails to dim its high beams, look:</question_text>
+        <category>Class C</category>
+        <correct_answer>Toward the right edge of your lane.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The "three-second rule" applies to the space ___	of your vehicle:</question_text>
+        <category>Class C</category>
+        <correct_answer>Ahead</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Following closely behind another vehicle (tailgating):
+        </question_text>
+        <category>Class C</category>
+        <correct_answer>Is a common cause of rear-end accidents</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When roads are slippery, you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Avoid making fast turns and fast stops.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>If the roadway is wet and your car starts to skid, you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Slowly ease your foot of the gas pedal.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When traffic is flow and heavy and you must cross railroad tracks before reaching the upcoming intersection, you should:
+        </question_text>
+        <category>Class C</category>
+        <correct_answer>Wait until you can completely cross the tracks before proceeding.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When sharing the road with a light rail vehicle:</question_text>
+        <category>Class C</category>
+        <correct_answer>Never turn in front of an approaching light rail vehicle.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>If you are towing another vehicle or trailer on a freeway with four lanes in your direction, you may travel in:</question_text>
+        <category>Class C</category>
+        <correct_answer>Either of the two right lanes.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Which of these is a legal U-turn?</question_text>
+        <category>Class C</category>
+        <correct_answer>On a highway where there is a paved opening for a turn.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Who has the right-of-way at an intersection with no crosswalks?</question_text>
+        <category>Class C</category>
+        <correct_answer>Pedestrians always have the right-of-way.
+        </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>If five or more vehicles are following you on a narrow two-lane road:</question_text>
+        <category>Class C</category>
+        <correct_answer>Pull off the road when it is safe and let them pass.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>All children under age six riding in your vehicle must be use a child passenger restraint system unless:</question_text>
+        <category>Class C</category>
+        <correct_answer>They weigh 60 pounds or more.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You are driving at night on a dimly lit street and using high beams, you should dim your lights when you are within 500 feet of:
+        </question_text>
+        <category>Class C</category>
+        <correct_answer>An oncoming vehicle.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You are crossing an intersection and an emergency vehicle is approaching with a siren and flashing lights. You should:
+        </question_text>
+        <category>Class C</category>
+        <correct_answer>Continue through the intersection, pull to the right, and stop.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You are approaching sharp curve in the road, you should: </question_text>
+        <category>Class C</category>
+        <correct_answer>Start braking before you enter the curve.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You are stopped at an intersection. The traffic light just turned green, should you go immediately?</question_text>
+        <category>Class C</category>
+        <correct_answer>Yes, but yield to any vehicle or person still in the intersection.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>It is very foggy. You should slow down and turn on your:</question_text>
+        <category>Class C</category>
+        <correct_answer>Low beam lights.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>If a driver looks like he or she is going to pull in front of you, the safest thing to do is:</question_text>
+        <category>Class C</category>
+        <correct_answer>Slow or stop your car and use your horn.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>If you approach and intersection without a stop sign or signals, you:</question_text>
+        <category>Class C</category>
+        <correct_answer>Should slow down and be ready to stop, if necessary.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When driving near road construction zones, you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Pass the construction zone carefully and avoid "rubbernecking".</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You may legally park your car in front of a driveway: </question_text>
+        <category>Class C</category>
+        <correct_answer>Under no circumstances.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>It is a good habit to signal continuously during the last 100 feet before you turn at an intersection:</question_text>
+        <category>Class C</category>
+        <correct_answer>Even if you do not see any other vehicles around.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You must notify law enforcement and make a written report (SR1) to DMV if:</question_text>
+        <category>Class C</category>
+        <correct_answer>You are involved in an accident and there is a death.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You park your car at the curb on a level two-way street. Before getting out of your car, you should:</question_text>
+        <category>Class C</category>
+        <correct_answer> Look for cars or bicycles on the traffic side of your vehicle.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>If you approach to a curve on the top of a hill and you do not have a clear view of the road ahead, you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Slow down so you can stop if necessary</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>The lane in the middle of a two-way street is used to:</question_text>
+        <category>Class C</category>
+        <correct_answer>Begin or end left turns, or start a permitted U-turn.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>To see vehicles in your blind spots, you must look:</question_text>
+        <category>Class C</category>
+        <correct_answer>Over your shoulders.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>A solid yellow line next to a broken yellow line means that vehicles:</question_text>
+        <category>Class C</category>
+        <correct_answer>Next to the broken line may pass.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You are involved in a minor accident at an intersection. There are no injuries and very little vehicle damage. You should:
+        </question_text>
+        <category>Class C</category>
+        <correct_answer>Move your vehicle out of the traffic lane, if possible.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>What is the benefit of the space cushion around your car?</question_text>
+        <category>Class C</category>
+        <correct_answer>If another driver makes a mistake, you have time to react.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Blocking an intersection during "rush hour" traffic is not permitted:</question_text>
+        <category>Class C</category>
+        <correct_answer>Under any circumstances, even if your light is green.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When you don't see any other vehicles around you while driving:</question_text>
+        <category>Class C</category>
+        <correct_answer>It is a good habit to signal for turn and lane changes anyway.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>A flashing yellow traffic signal at an intersection means: </question_text>
+        <category>Class C</category>
+        <correct_answer>Slow down and be alert at the upcoming intersection.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>California's "Basic Speed Law" says you must:</question_text>
+        <category>Class C</category>
+        <correct_answer> Never drive faster than is safe for current conditions.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You are driving on a city street and see an emergency vehicle with flashing lights behind you. What should you do?
+        </question_text>
+        <category>Class C</category>
+        <correct_answer>Drive to the right edge of the road and stop.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You must stop at an intersection ahead. Just before the intersection, you have to cross railroad tracks. You should stop before you cross the railroad tracks when: </question_text>
+        <category>Class C</category>
+        <correct_answer>You don't have room to completely cross the tracks.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You reach an intersection with stop signs on all four corners at the same time as the driver on your left. Who has the right-of-way? </question_text>
+        <category>Class C</category>
+        <correct_answer>You have the right-of-way.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Which of these statements is true about slippery road surfaces?</question_text>
+        <category>Class C</category>
+        <correct_answer>On cold days, shade from buildings or trees can hide spots of ice.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Backing your vehicle is:</question_text>
+        <category>Class C</category>
+        <correct_answer>Always dangerous to do. </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Which of the following is true about roadways on bridges and overpasses in cold, wet weather? </question_text>
+        <category>Class C</category>
+        <correct_answer>They tend to freeze before the rest of the road does.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Drivers are required to obey instructions from:</question_text>
+        <category>Class C</category>
+        <correct_answer>Signal persons at construction sites.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Scanning while you drive means you:</question_text>
+        <category>Class C</category>
+        <correct_answer>Keep your eyes moving to look for possible driving dangers </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>If you are driving in a vehicle equipped with a lap belt and also a separate shoulder belt, you are:</question_text>
+        <category>Class C</category>
+        <correct_answer>Required to use both the lap and shoulder belts.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Tailgating other drivers ___	(driving too close to their rear bumper):</question_text>
+        <category>Class C</category>
+        <correct_answer>Can frustrate other drivers and make them angry.
+        </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When driving on a multilane street with two-way traffic:
+        </question_text>
+        <category>Class C</category>
+        <correct_answer>You should drive ahead of or behind the other vehicles.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Driving under the influence of any medication with impairs your driving is permitted:</question_text>
+        <category>Class C</category>
+        <correct_answer>Under no circumstances.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You want to park uphill on a two-way road and there is no curb. Which way do you turn your front wheels?</question_text>
+        <category>Class C</category>
+        <correct_answer>Right-towards the side of the road.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You are on a two-way street with two lanes in each direction. To turn left, start the turn in:</question_text>
+        <category>Class C</category>
+        <correct_answer>The left lane for traffic in your direction.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You may drive in a bike lane:</question_text>
+        <category>Class C</category>
+        <correct_answer>No more than 200 feet before making a right turn</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>A flashing red traffic light at an intersection means:</question_text>
+        <category>Class C</category>
+        <correct_answer>Stop before entering.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>A freeway onramp is marked with a Carpool sign that reads "Carpools 3 or more only." Which of the following vehicles may use this lane? </question_text>
+        <category>Class C</category>
+        <correct_answer>A convertible with an adult and two children.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You are on the freeway and traffic is merging into your lane. You should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Make room for the merging traffic, if possible.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>While all of the following are dangerous to do while driving, which is also illegal? </question_text>
+        <category>Class C</category>
+        <correct_answer>Listening to music through a set of dual headphones.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Which of the following is true about double parking?
+        </question_text>
+        <category>Class C</category>
+        <correct_answer>It is illegal under all circumstances.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You are driving on the freeway behind a large truck. You should drive:</question_text>
+        <category>Class C</category>
+        <correct_answer>Farther behind the truck than for a passenger car.
+        </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>If there is no crosswalk and you see a pedestrian crossing your lane, you should:</question_text>
+        <category>Class C</category>
+        <correct_answer>Stop and let him or her finish crossing.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>To turn left from a one-way street with multiple lanes onto a two-way street, start the turn in:</question_text>
+        <category>Class C</category>
+        <correct_answer> The far left lane</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You are going to make a left from a dedicated left-turn lane when a yellow arrow appears for your lane. You should:
+        </question_text>
+        <category>Class C</category>
+        <correct_answer>Be prepared to obey the next signal that appears.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>At night, if an oncoming vehicle fails to dim its high beams, look:</question_text>
+        <category>Class C</category>
+        <correct_answer>Toward the right edge of your lane.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
     </question>
 
 
