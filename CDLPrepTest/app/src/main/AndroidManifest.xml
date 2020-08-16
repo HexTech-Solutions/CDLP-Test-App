@@ -12,7 +12,8 @@
         <activity android:name=".LevelCompletedActivity"></activity>
         <activity android:name=".LevelActivity" />
         <activity android:name=".StudyPlanActivity"></activity>
-        <activity android:name=".TestQuestionsActivity" />
+        <activity android:name=".TestQuestionsActivity"
+            android:label="Test Simulator"/>
         <activity android:name=".CustomizeTestActivity"
             android:label="Customize Test"/>
         <activity

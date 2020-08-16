@@ -24,6 +24,7 @@
     <string name="customize_feedback">Instant feedback</string>
     <string name="customize_content">Content setting</string>
     <string name="btn_save">Save</string>
+    <string name="img_favorite_desc">ImageView showing if question is a favorite.</string>
 
     //Test Values
     <string-array name="state_names1">
