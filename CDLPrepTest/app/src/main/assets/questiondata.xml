@@ -2253,6 +2253,671 @@
     </question>
 
 
+
+
+    <question>
+        <question_text>There are two things that can prevent a rollover. They are: 	(1) keep the cargo as close to the ground as possible: and (2):
+        </question_text>
+        <category>Class A</category>
+        <correct_answer>keep the cargo as close to the ground as possible:</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Compared to a straight truck or bus, there are ___ things to inspect on a combination vehicle.</question_text>
+        <category>Class A</category>
+        <correct_answer>More</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Before you back under a truck trailer, make sure the:</question_text>
+        <category>Class A</category>
+        <correct_answer>Trailer brakes are locked.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You have pushed in the trailer supply valve. You should not move the tractor until the whole air system is:</question_text>
+        <category>Class A</category>
+        <correct_answer>At normal pressure.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>The front trailer supports are up and the trailer is resting on the tractor. Make sure:</question_text>
+        <category>Class A</category>
+        <correct_answer>There is enough clearance between the tractor frame and the landing gear.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Which statement is true?</question_text>
+        <category>Class A</category>
+        <correct_answer>Bobtail" tractors can take longer to stop than a combination vehicle loaded to maximum gross weight.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When checking the trailer's emergency brakes, the tractor protection control valve should be placed in the position. </question_text>
+        <category>Class A</category>
+        <correct_answer>Emergency</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>To stop a trailer skid you should:</question_text>
+        <category>Class A</category>
+        <correct_answer>Release the brakes.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>A Tractor with a	trailer requires the shortest stopping distance.</question_text>
+        <category>Class A</category>
+        <correct_answer>Fully loaded.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>A trailer is most likely to jackknife when it is:</question_text>
+        <category>Class A</category>
+        <correct_answer>Empty</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>To unlock the fifth wheel, pull the release handle to the ___ position.</question_text>
+        <category>Class A</category>
+        <correct_answer>Open</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You are coupling a tractor to a semitrailer. You have backed up but are not under it. What should you hook up before 	backing under the semitrailer?</question_text>
+        <category>Class A</category>
+        <correct_answer>The emergency and service air lines.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Glad hands are used to connect the:</question_text>
+        <category>Class A</category>
+        <correct_answer>Service and emergency air lines from the truck to the trailer. </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>The best way to tell if your trailer has started to skid is to: </question_text>
+        <category>Class A</category>
+        <correct_answer>See it in your mirrors.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>How much space should be between the upper and the lower fifth wheel after coupling?</question_text>
+        <category>Class A</category>
+        <correct_answer>None</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>If you have coupled with a semitrailer, where should the front trailer supports be before driving away?</question_text>
+        <category>Class A</category>
+        <correct_answer>Fully raised with the crank handle secured in its bracket.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When you get ready to back under a semitrailer, you should line up:</question_text>
+        <category>Class A</category>
+        <correct_answer>Directly in front of the trailer.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Under good driving conditions you should leave at least one second of space between your vehicle and the vehicle
+            ahead for every ___	feet of your vehicle's length. </question_text>
+        <category>Class A</category>
+        <correct_answer>10</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Which of these vehicles off-track the most?</question_text>
+        <category>Class A</category>
+        <correct_answer>5-axle tractor towing a	52-foot trailer.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>After you have coupled the trailer, you should begin raising the landing gear by using the	gear.</question_text>
+        <category>Class A</category>
+        <correct_answer>Low</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>There are two things that can prevent a rollover. They are: 	(1) keep the cargo as close to the ground as possible: and (2):
+        </question_text>
+        <category>Class A</category>
+        <correct_answer>Go slow around turns. </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>The fifth wheel locking lever is not locked after the jaws close around the kingpin. This means that:</question_text>
+        <category>Class A</category>
+        <correct_answer>The coupling is not right and should be fixed before driving the coupled unit.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You have pushed in the trailer supply value. You should not move the tractor until the whole air system is: </question_text>
+        <category>Class A</category>
+        <correct_answer>At normal pressure.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>To stop a trailer skid you should:</question_text>
+        <category>Class A</category>
+        <correct_answer>Release the brakes.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>A tractor with a(n) ___ trailer requires the shortest stopping distance.</question_text>
+        <category>Class A</category>
+        <correct_answer>Fully loaded</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You should not back a tractor under a trailer until the whole air system is:</question_text>
+        <category>Class A</category>
+        <correct_answer>At normal pressure.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>The best way to tell if your trailer has started to skid is to: </question_text>
+        <category>Class A</category>
+        <correct_answer>See it in your mirrors.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Under good driving conditions, you should leave at least one second of space between your vehicle and the vehicle ahead for every ___ feet of your vehicle's length.</question_text>
+        <category>Class A</category>
+        <correct_answer>10</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>A trailer is most likely to jackknife when it is: </question_text>
+        <category>Class A</category>
+        <correct_answer>Empty</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You are coupling a semitrailer to your tractor but have not backed under it. The trailer is at the right height when:</question_text>
+        <category>Class A</category>
+        <correct_answer>It will be raised slightly when the tractor is backed under it.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>If you cannot make a turn without entering another traffic lane, you should: </question_text>
+        <category>Class A</category>
+        <correct_answer>Turn wide as you complete your turn.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Fore coupling to be completed, the safety catch for the fifth wheel locking lever must be:</question_text>
+        <category>Class A</category>
+        <correct_answer>Over the locking lever.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Why should you lock the air line glad hands to each other (or dummy couplers) when you are not towing a trailer?</question_text>
+        <category>Class A</category>
+        <correct_answer>It will keep water out of the lines.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>After you connect the air lines, but before you back under the trailer, you should:</question_text>
+        <category>Class A</category>
+        <correct_answer>Supply air to the trailer system, and then pull out the air supply knob.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>To unlock the fifth wheel, pull the release handle to the ___ position.</question_text>
+        <category>Class A</category>
+        <correct_answer>Open</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Air and electric lines from the tractor to the trailer should be:</question_text>
+        <category>Class A</category>
+        <correct_answer>Secured, but with enough slack for turns.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Compared to a straight truck or bus, there are ___ things to inspect on a combination vehicle.</question_text>
+        <category>Class A</category>
+        <correct_answer>More</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Which part of the kingpin should the locking jaws close around?</question_text>
+        <category>Class A</category>
+        <correct_answer>The shank</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>After you lock the kingpin into the fifth wheel, you should check the connection by pulling:</question_text>
+        <category>Class A</category>
+        <correct_answer>The tractor ahead gently with the trailer breaks locked.
+        </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When should you use shocks to park a trailer not equipped with spring brakes?</question_text>
+        <category>Class A</category>
+        <correct_answer>Always</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You have pushed in the trailer supply valve. You should not move the tractor until the whole air system is:</question_text>
+        <category>Class A</category>
+        <correct_answer>At normal pressure</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>To stop a trailer skid you should:</question_text>
+        <category>Class A</category>
+        <correct_answer>Release the brakes.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>In general, the higher your truck's "center of gravity" the:</question_text>
+        <category>Class A</category>
+        <correct_answer>Easier it is to turn over.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>If you cannot make a turn without entering another traffic lane, you should:</question_text>
+        <category>Class A</category>
+        <correct_answer>Turn wide as you complete that turn.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>For a coupling to be completed, the safety catch for the fifth wheel locking lever must be: </question_text>
+        <category>Class A</category>
+        <correct_answer>Over the locking lever.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You are coupling a semitrailer to your tractor but have not yet backed under it. The trailer is at the right height when:</question_text>
+        <category>Class A</category>
+        <correct_answer>It will be raised slightly when the tractor is backed under it.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When checking that the trailer is securely coupled to the tractor, the landing gear should be:</question_text>
+        <category>Class A</category>
+        <correct_answer>Slightly raised.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When coupling, the proper position of the fifth wheel is:</question_text>
+        <category>Class A</category>
+        <correct_answer>Tilted down towards the end of the tractor.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>After the trailer has been coupled to the tractor, the tractor protection control valve should be placed in the 	position.
+        </question_text>
+        <category>Class A</category>
+        <correct_answer>Normal</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When you are uncoupling a loaded trailer, lower the landing gear until it:</question_text>
+        <category>Class A</category>
+        <correct_answer>Makes firm contact with the ground.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You are uncoupling a trailer. After you shut off the trailer air supply and lock the trailer brakes, you should: </question_text>
+        <category>Class A</category>
+        <correct_answer>Back up gently to ease pressure on the fifth wheel locking jaws</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You want to inspect the trailer supports. You should place the tractor transmission in which gear after you have ___ uncoupled the trailer?</question_text>
+        <category>Class A</category>
+        <correct_answer>Neutral</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When backing a tractor under a trailer you should: </question_text>
+        <category>Class A</category>
+        <correct_answer>Always use the lowest reverse gear.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>How much space should be between the upper and lower fifth wheel after coupling?</question_text>
+        <category>Class A</category>
+        <correct_answer>None</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>After you lock the kingpin into the fifth wheel, you should check the connection by pulling:</question_text>
+        <category>Class A</category>
+        <correct_answer>The tractor ahead gently with the trailer brakes locked.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>After you supply air to the trailer, make sure the air lines are not crossed and the trailer brakes are working. You do 	this by:</question_text>
+        <category>Class A</category>
+        <correct_answer>Applying/releasing the trailer brakes and listening for brake sounds</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Which part of the kingpin should the locking jaws close around?</question_text>
+        <category>Class A</category>
+        <correct_answer>The shank</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Why should you be sure that the fifth wheel plate is greased as required?</question_text>
+        <category>Class A</category>
+        <correct_answer>To prevent steering problems</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When checking the trailer's emergency brakes, the tractor protection control valve should be placed in the ___ position.</question_text>
+        <category>Class A</category>
+        <correct_answer>Emergency</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>The front trailer supports are up and the trailer is resting on the tractor. Make sure:</question_text>
+        <category>Class A</category>
+        <correct_answer>There is enough clearance between the tractor frame and the landing gear</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>How should you test the tractor-semitrailer connection for security?</question_text>
+        <category>Class A</category>
+        <correct_answer>Pull gently forward in low gear against the locked trailer brakes.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When driving a set of double, it is necessary to close the ___ shut-off valve in the last trailer.</question_text>
+        <category>Class A</category>
+        <correct_answer>Back</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>You supply air to the trailer tanks by:</question_text>
+        <category>Class A</category>
+        <correct_answer>Pushing in the trailer air supply control valve.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Air lines on a combination vehicle are often colored to keep from getting them mixed up. The emergency line is ___ the service line is</question_text>
+        <category>Class A</category>
+        <correct_answer>Red; blue</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text> If the spring brakes don't release when you push the trailer air supply control, you should: </question_text>
+        <category>Class A</category>
+        <correct_answer>Check the air lanes connections.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>What should you do if your vehicle gets stuck on a raised railroad-highway crossing?</question_text>
+        <category>Class A</category>
+        <correct_answer>Get out of the vehicle and away from the tracks</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When connecting the glad hands, press the two seals of the couplers together at a degree angle to one another.</question_text>
+        <category>Class A</category>
+        <correct_answer>90</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>A tractor-trailer vehicle combination is most likely to roll over in a turn when the configuration includes:</question_text>
+        <category>Class A</category>
+        <correct_answer>Triple 27 ft. trailers.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Loss of air pressure in the emergency line causes: </question_text>
+        <category>Class A</category>
+        <correct_answer>The trailer's emergency brakes to come on.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>What will happen if the air lines are crossed when you hook up to an old trailer with no spring brakes?</question_text>
+        <category>Class A</category>
+        <correct_answer>You could drive away with no trailer brakes.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When should you use the hand valve to park a combination vehicle?</question_text>
+        <category>Class A</category>
+        <correct_answer>Never</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Your emergency air line brakes or gets pulled apart while you are driving. The loss of pressure will cause the:</question_text>
+        <category>Class A</category>
+        <correct_answer>Emergency trailer brakes to come on. </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>How do you know if the trailer you are driving has antilock brakes? </question_text>
+        <category>Class A</category>
+        <correct_answer>Yellow ABS malfunction lamps on the left side of the trailer.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Semitrailers made before ___ 1975 that are equipped with air brakes:</question_text>
+        <category>Class A</category>
+        <correct_answer> Often do not have spring brakes.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text> If you are coupling a tractor and semitrailer and have connected the air lines, what should you do before backing ___ under the trailer?</question_text>
+        <category>Class A</category>
+        <correct_answer>Supply air to the trailer system, and then pull out the air supply knob to lock the trailer brakes.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>The trailer air supply control ___ (or tractor protection valve control) should automatically close when the air pressure falls
+            to between ___ psi. </question_text>
+        <category>Class A</category>
+        <correct_answer>20 and 45</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>To prevent a jackknife in normal driving, some drivers use the hand valve before stepping on the brake pedal. Which 	of these statements is true?</question_text>
+        <category>Class A</category>
+        <correct_answer>It should not be done.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>A tractor-trailer vehicle combination is most likely to roll over in a turn when the configuration includes:</question_text>
+        <category>Class A</category>
+        <correct_answer>Triple 27 ft. trailers.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>The hand valve should be used:</question_text>
+        <category>Class A</category>
+        <correct_answer>To test the trailer brakes.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>Having antilock brakes on only your trailer will:</question_text>
+        <category>Class A</category>
+        <correct_answer>Give you more control over the vehicle when braking.</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When connecting the glad hands, press the two seals of the couplers together at a degree angle to one another.</question_text>
+        <category>Class A</category>
+        <correct_answer>90</correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+    <question>
+        <question_text>When should you get out of your vehicle when backing with a trailer? </question_text>
+        <category>Class A</category>
+        <correct_answer>When you are unsure of your path of travel </correct_answer>
+        <wrong_answer_1>wrong 1</wrong_answer_1>
+        <wrong_answer_2>wrong 2</wrong_answer_2>
+    </question>
+
+
     <question>
         <question_text>The safest method for using in-vehicle communications equipment is:</question_text>
         <category>General Knowledge</category>
