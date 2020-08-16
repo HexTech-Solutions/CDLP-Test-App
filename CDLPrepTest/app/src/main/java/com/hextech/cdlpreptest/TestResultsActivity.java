@@ -1,5 +1,6 @@
 package com.hextech.cdlpreptest;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -10,6 +11,7 @@ import com.github.mikephil.charting.data.PieData;
 import com.github.mikephil.charting.data.PieDataSet;
 import com.github.mikephil.charting.data.PieEntry;
 import com.github.mikephil.charting.utils.ColorTemplate;
+import com.hextech.cdlpreptest.util.QuestionResult;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -20,7 +22,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class TestResultsActivity extends AppCompatActivity {
 
     TextView textViewResult;
-    Button btnStartAgain;
+    Button btnStartAgain, btnReviewResult;
     PieChart pieChart;
 
     @Override
@@ -30,6 +32,7 @@ public class TestResultsActivity extends AppCompatActivity {
 
         textViewResult = findViewById(R.id.textviewResult);
         btnStartAgain = findViewById(R.id.btnStartAgain);
+        btnReviewResult = findViewById(R.id.btnReviewResult);
         pieChart = findViewById(R.id.pieChartResult);
 
         Bundle extras = getIntent().getExtras();
@@ -63,6 +66,17 @@ public class TestResultsActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 finish();
+            }
+        });
+
+        btnReviewResult.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                ArrayList<QuestionResult> questionResults = (ArrayList<QuestionResult>) getIntent().getSerializableExtra("question_results_extra");
+
+                Intent intent = new Intent(getApplicationContext(), ReviewTestResultsActivity.class);
+                intent.putExtra("question_results_extra", questionResults);
+                startActivity(intent);
             }
         });
     }
