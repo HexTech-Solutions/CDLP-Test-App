@@ -21,5 +21,9 @@
     <color name="range_bg_color_app">#FFCDD2</color>
     <color name="beautiful_color">#FFF</color>
 
+    <color name="correct_answer_bg">#08A30B</color>
+    <color name="wrong_answer_bg">#D93125</color>
+    <color name="light_grey">#C4C4C4</color>
+
     <!--    <solid android:color="@color/calendar_header"/>-->
 </resources>

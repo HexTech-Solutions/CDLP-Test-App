@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<questions>
+    <question>
+        <question_text>Which of the following about anti-lock braking systems is true</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>ABS changes the way you brake in emergencies</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>In air brake vehicles, the parking brakes should be used:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Anytime the vehicle is parked</correct_answer>
+        <wrong_answer_1>Anytime the vehicle is parked wrong 1</wrong_answer_1>
+        <wrong_answer_2>Anytime the vehicle is parked wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You can be fined up to $1000 and jailed for six months if you are cited for:</question_text>
+        <category>Class C</category>
+        <correct_answer>Dumping or abandoning an animal on the highway</correct_answer>
+        <wrong_answer_1>Dumping or abandoning an animal on the highway wrong 1</wrong_answer_1>
+        <wrong_answer_2>Dumping or abandoning an animal on the highway wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Do not cross double solid yellow lines in the center of the roadway to:</question_text>
+        <category>Class C</category>
+        <correct_answer>Pass other vehicles</correct_answer>
+        <wrong_answer_1>Pass other vehicles wrong 1</wrong_answer_1>
+        <wrong_answer_2>Pass other vehicles wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The safest method for using in-vehicle communications equipment is:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Pull off the road in a safe, legal place to use the equipment</correct_answer>
+        <wrong_answer_1>Pull off the road in a safe, legal place to use the equipment wrong 1</wrong_answer_1>
+        <wrong_answer_2>Pull off the road in a safe, legal place to use the equipment wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>A good indication that ice is forming on the road way when:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Your outside mirrors have ice on them</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+
+</questions>
