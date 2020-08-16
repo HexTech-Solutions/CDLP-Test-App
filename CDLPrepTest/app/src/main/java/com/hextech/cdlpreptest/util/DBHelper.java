@@ -72,6 +72,32 @@ public class DBHelper extends SQLiteOpenHelper {
         return questionList;
     }
 
+    //Returns data from whole row according to a where clause
+    public ArrayList<Question> getQuestionAndAnsCountWithSelection(String whereClause) {
+        SQLiteDatabase db = this.getReadableDatabase();
+        String[] projection = {DatabaseTableColumns.QUESTION_ID.toString(), DatabaseTableColumns.QUESTION.toString(), DatabaseTableColumns.CATEGORY.toString(), DatabaseTableColumns.CORRECT_ANSWER.toString(), DatabaseTableColumns.WRONG_ANSWER_1.toString(), DatabaseTableColumns.WRONG_ANSWER_2.toString(), DatabaseTableColumns.WRONG_COUNT.toString(), DatabaseTableColumns.CORRECT_COUNT.toString(), DatabaseTableColumns.FAVORITE.toString()};
+        Cursor cursor = db.query(TABLE_NAME_MAIN, projection, whereClause, null, null, null, null);
+        ArrayList<Question> questionList = new ArrayList<>();
+        while (cursor.moveToNext()) {
+            int questionId = cursor.getInt(cursor.getColumnIndex(DatabaseTableColumns.QUESTION_ID.toString()));
+            String questionText = cursor.getString(cursor.getColumnIndex(DatabaseTableColumns.QUESTION.toString()));
+            String category = cursor.getString(cursor.getColumnIndex(DatabaseTableColumns.CATEGORY.toString()));
+            String correctAnswer = cursor.getString(cursor.getColumnIndex(DatabaseTableColumns.CORRECT_ANSWER.toString()));
+            String wrongAnswer1 = cursor.getString(cursor.getColumnIndex(DatabaseTableColumns.WRONG_ANSWER_1.toString()));
+            String wrongAnswer2 = cursor.getString(cursor.getColumnIndex(DatabaseTableColumns.WRONG_ANSWER_2.toString()));
+            int correctCount = cursor.getInt(cursor.getColumnIndex(DatabaseTableColumns.CORRECT_COUNT.toString()));
+            int wrongCount = cursor.getInt(cursor.getColumnIndex(DatabaseTableColumns.WRONG_COUNT.toString()));
+            int isFavorite = cursor.getInt(cursor.getColumnIndex(DatabaseTableColumns.FAVORITE.toString()));
+
+            Question question = new Question(questionId, questionText, category, correctAnswer, wrongAnswer1, wrongAnswer2, isFavorite);
+            question.setCorrectCount(correctCount);
+            question.setWrongCount(wrongCount);
+            questionList.add(question);
+        }
+        cursor.close();
+        return questionList;
+    }
+
     //Toggles the favorite status of a question
     public int addToFavorites(int questionId, int favorite) {
         SQLiteDatabase db = this.getWritableDatabase();

@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 
 public class Question {
-    private int questionId;
+    private int questionId, correctCount, wrongCount;
     private String question, category, correctAnswer, wrongAnswer1, wrongAnswer2;
     private Boolean isFavorite;
     private String[] answerArr;
@@ -56,6 +56,22 @@ public class Question {
     public String[] getAnswerArr() {
         Collections.shuffle(Arrays.asList(answerArr));
         return answerArr;
+    }
+
+    public int getCorrectCount() {
+        return correctCount;
+    }
+
+    public void setCorrectCount(int correctCount) {
+        this.correctCount = correctCount;
+    }
+
+    public int getWrongCount() {
+        return wrongCount;
+    }
+
+    public void setWrongCount(int wrongCount) {
+        this.wrongCount = wrongCount;
     }
 
     public Boolean Encode(int tempInt) {
