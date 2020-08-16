@@ -58,20 +58,32 @@ public class LearnFragment extends Fragment implements LearnViewAdapter.OnLearnV
         String selectedTitle = learnTitle[position];
 
         switch (selectedTitle){
-            case "Weak questions":
+            case "General Knowledge":
                 topic = 1;
                 break;
-            case "Medium questions":
-                topic = 1;
+            case "Hazmat":
+                topic = 2;
                 break;
-            case "Strong questions":
-                topic = 1;
+            case "Passenger Vehicles":
+                topic = 3;
                 break;
-            case "All familiar questions":
-                topic = 1;
+            case "Air Brake":
+                topic = 4;
                 break;
-            case "Your favourite questions":
-                topic = 1;
+            case "Combination Vehicles":
+                topic = 5;
+                break;
+            case "Doubles/ Triples Trailers":
+                topic = 6;
+                break;
+            case "Tanker Vehicles":
+                topic = 7;
+                break;
+            case "School Bus":
+                topic = 8;
+                break;
+            case "Pre-Trip":
+                topic = 9;
                 break;
         }
 
