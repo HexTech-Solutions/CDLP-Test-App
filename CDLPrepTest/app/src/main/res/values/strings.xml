@@ -25,6 +25,16 @@
     <string name="customize_content">Content setting</string>
     <string name="btn_save">Save</string>
     <string name="img_favorite_desc">ImageView showing if question is a favorite.</string>
+    <string name="pass_message">Passed!</string>
+    <string name="fail_message">Failed!</string>
+    <string name="btn_start_again">Start Again</string>
+
+    <string-array name="learn_areas">
+        <item>Air Brakes</item>
+        <item>Class C</item>
+        <item>General Knowledge</item>
+        <item>Combination (Class A)</item>
+    </string-array>
 
     //Test Values
     <string-array name="state_names1">

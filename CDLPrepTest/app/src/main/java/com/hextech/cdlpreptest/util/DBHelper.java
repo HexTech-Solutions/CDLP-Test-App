@@ -51,10 +51,10 @@ public class DBHelper extends SQLiteOpenHelper {
     }
 
     //Returns data from whole row according to a where clause
-    public ArrayList<Question> getQuestionDataWithSelection(String whereClause) {
+    public ArrayList<Question> getQuestionDataWithSelection(String whereClause, int limit) {
         SQLiteDatabase db = this.getReadableDatabase();
         String[] projection = {DatabaseTableColumns.QUESTION_ID.toString(), DatabaseTableColumns.QUESTION.toString(), DatabaseTableColumns.CATEGORY.toString(), DatabaseTableColumns.CORRECT_ANSWER.toString(), DatabaseTableColumns.WRONG_ANSWER_1.toString(), DatabaseTableColumns.WRONG_ANSWER_2.toString(), DatabaseTableColumns.FAVORITE.toString()};
-        Cursor cursor = db.query(TABLE_NAME_MAIN, projection, whereClause, null, null, null, null);
+        Cursor cursor = db.query(TABLE_NAME_MAIN, projection, whereClause, null, null, null, "RANDOM() LIMIT " + limit);
         ArrayList<Question> questionList = new ArrayList<>();
         while (cursor.moveToNext()) {
             int questionId = cursor.getInt(cursor.getColumnIndex(DatabaseTableColumns.QUESTION_ID.toString()));
