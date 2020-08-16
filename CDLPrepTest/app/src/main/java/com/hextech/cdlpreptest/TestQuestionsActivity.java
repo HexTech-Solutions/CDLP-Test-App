@@ -272,6 +272,12 @@ public class TestQuestionsActivity extends AppCompatActivity {
         textViewQuestionNumber.setText(String.format("Question %d/%d", questionNo + 1, maxQuestionNum));
         btnSkip.setText(getResources().getString(R.string.btn_skip));
 
+        if(currentQuestion.isFavorite()){
+            imgViewFavorite.setImageDrawable(getApplicationContext().getResources().getDrawable(R.drawable.ic_baseline_favorite_24, null));
+        }else{
+            imgViewFavorite.setImageDrawable(getApplicationContext().getResources().getDrawable(R.drawable.ic_baseline_favorite_border_24, null));
+        }
+
         answerArr = currentQuestion.getAnswerArr();
         setQuestionAndAnswersToTextViews(currentQuestion.getQuestion(), answerArr);
         toggleCardViewListeners(true);
