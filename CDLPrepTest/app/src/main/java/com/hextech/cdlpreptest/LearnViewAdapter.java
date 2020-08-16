@@ -13,10 +13,12 @@ public class LearnViewAdapter extends RecyclerView.Adapter<LearnViewAdapter.Lear
 
     String dataArray1[];
     Context context;
+    private OnLearnViewListner mOnLearnViewListner;
 
-    public LearnViewAdapter(Context ct, String s1[]){
+    public LearnViewAdapter(Context ct, String s1[], OnLearnViewListner onLearnViewListner){
         context = ct;
         dataArray1 = s1;
+        this.mOnLearnViewListner = onLearnViewListner;
     }
 
     @NonNull
@@ -24,7 +26,7 @@ public class LearnViewAdapter extends RecyclerView.Adapter<LearnViewAdapter.Lear
     public LearnViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         LayoutInflater inflater = LayoutInflater.from(context);
         View view = inflater.inflate(R.layout.learn_row, parent, false);
-        return new LearnViewAdapter.LearnViewHolder(view);
+        return new LearnViewAdapter.LearnViewHolder(view, mOnLearnViewListner);
     }
 
     @Override
@@ -38,12 +40,26 @@ public class LearnViewAdapter extends RecyclerView.Adapter<LearnViewAdapter.Lear
         return dataArray1.length;
     }
 
-    public class LearnViewHolder extends RecyclerView.ViewHolder {
+    public class LearnViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
         TextView learnTitle;
+        OnLearnViewListner onLearnViewListner;
 
-        public LearnViewHolder(@NonNull View itemView) {
+        public LearnViewHolder(@NonNull View itemView, OnLearnViewListner onLearnViewListner) {
             super(itemView);
             learnTitle = itemView.findViewById(R.id.learnText);
+            this.onLearnViewListner = onLearnViewListner;
+
+            itemView.setOnClickListener(this);
         }
+
+        @Override
+        public void onClick(View view) {
+            onLearnViewListner.onLearnViewClick(getAdapterPosition());
+
+        }
+    }
+
+    public interface OnLearnViewListner{
+        void onLearnViewClick(int position);
     }
 }
