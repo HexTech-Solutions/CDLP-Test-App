@@ -22,7 +22,7 @@ import com.hextech.cdlpreptest.util.DBHelper;
 
 public class ReviewFragment extends Fragment implements ReviewViewAdapter.OnReviweListener{
 
-    final int WEAK_COUNT_LEVEL = 1;
+    final int WEAK_COUNT_LEVEL = 7;
     final int MEDIUM_COUNT_LEVEL = 4;
     final int STRONG_COUNT_LEVEL = 8;
     final int FAMILIAR_COUNT_LEVEL = 15;
@@ -71,7 +71,7 @@ public class ReviewFragment extends Fragment implements ReviewViewAdapter.OnRevi
                 break;
             case 2:
                 whereClause = "(" + DBHelper.DatabaseTableColumns.CORRECT_COUNT.toString() + "-" + DBHelper.DatabaseTableColumns.WRONG_COUNT.toString()
-                        + ") >" + STRONG_COUNT_LEVEL;
+                        + ") >=" + STRONG_COUNT_LEVEL;
                 break;
             case 3:
                 whereClause = "(" + DBHelper.DatabaseTableColumns.WRONG_COUNT.toString() + "+" + DBHelper.DatabaseTableColumns.CORRECT_COUNT.toString()
