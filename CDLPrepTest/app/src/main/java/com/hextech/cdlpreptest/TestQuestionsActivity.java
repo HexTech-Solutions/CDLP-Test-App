@@ -14,6 +14,7 @@ import android.widget.Toast;
 
 import com.hextech.cdlpreptest.util.DBHelper;
 import com.hextech.cdlpreptest.util.Question;
+import com.hextech.cdlpreptest.util.QuestionResult;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -24,8 +25,9 @@ import androidx.cardview.widget.CardView;
 public class TestQuestionsActivity extends AppCompatActivity {
 
     Boolean instantFeedback, stopOnMaxMistakes, skip;
-    int currentQuestionNum, maxQuestionNum, maxMistakeNum, currentMistakeNum;
+    int currentQuestionNum, maxQuestionNum, maxMistakeNum, currentMistakeNum, selectedAnswerPosition;
     String selectedAnswer, whereClause;
+    String[] answerArr;
     Question currentQuestion;
     TextView textViewQuestion, textViewAnswer1, textViewAnswer2, textViewAnswer3, textViewQuestionNumber;
     CardView cardViewAnswer1, cardViewAnswer2, cardViewAnswer3;
@@ -34,6 +36,7 @@ public class TestQuestionsActivity extends AppCompatActivity {
 
     DBHelper database;
     ArrayList<Question> questionList;
+    ArrayList<QuestionResult> questionResultsList;
     ArrayList<Integer> wrongQuestionList, correctQuestionList;
 
     @Override
@@ -64,6 +67,7 @@ public class TestQuestionsActivity extends AppCompatActivity {
         stopOnMaxMistakes = pref.getBoolean("stopOnMaxMistakes", Boolean.FALSE);
         whereClause = pref.getString("where_clause", null);
         skip = true;
+        questionResultsList = new ArrayList<>();
 
         setOnClickListeners();
         getQuestionList();
@@ -88,6 +92,7 @@ public class TestQuestionsActivity extends AppCompatActivity {
                 selectedAnswer = String.valueOf(textViewAnswer1.getText());
                 btnSkip.setText(getResources().getString(R.string.btn_continue));
                 skip = false;
+                selectedAnswerPosition = 0;
 
                 if(instantFeedback){
                     toggleCardViewListeners(false);
@@ -105,6 +110,7 @@ public class TestQuestionsActivity extends AppCompatActivity {
                 selectedAnswer = String.valueOf(textViewAnswer2.getText());
                 btnSkip.setText(getResources().getString(R.string.btn_continue));
                 skip = false;
+                selectedAnswerPosition = 1;
 
                 if(instantFeedback){
                     toggleCardViewListeners(false);
@@ -122,6 +128,7 @@ public class TestQuestionsActivity extends AppCompatActivity {
                 selectedAnswer = String.valueOf(textViewAnswer3.getText());
                 btnSkip.setText(getResources().getString(R.string.btn_continue));
                 skip = false;
+                selectedAnswerPosition = 2;
 
                 if(instantFeedback){
                     toggleCardViewListeners(false);
@@ -152,8 +159,10 @@ public class TestQuestionsActivity extends AppCompatActivity {
                         if(!isCorrectAnswer(currentQuestion.getCorrectAnswer(), selectedAnswer)){
                             currentMistakeNum++;
                             wrongQuestionList.add(currentQuestion.getQuestionId());
+                            addQuestionResult(false, selectedAnswerPosition);
                         }else{
                             correctQuestionList.add(currentQuestion.getQuestionId());
+                            addQuestionResult(true, selectedAnswerPosition);
                         }
                     }
 
@@ -178,11 +187,13 @@ public class TestQuestionsActivity extends AppCompatActivity {
         if(isCorrectAnswer(currentQuestion.getCorrectAnswer(), selectedAnswer)){
             selectedCard.setCardBackgroundColor(getApplicationContext().getResources().getColor(R.color.correct_answer_bg, null));
             correctQuestionList.add(currentQuestion.getQuestionId());
+            addQuestionResult(true, selectedAnswerPosition);
         }else{
             selectedCard.setCardBackgroundColor(getApplicationContext().getResources().getColor(R.color.wrong_answer_bg, null));
             getCorrectAnswerCard().setCardBackgroundColor(getApplicationContext().getResources().getColor(R.color.correct_answer_bg, null));
             currentMistakeNum++;
             wrongQuestionList.add(currentQuestion.getQuestionId());
+            addQuestionResult(false, selectedAnswerPosition);
         }
     }
 
@@ -224,6 +235,7 @@ public class TestQuestionsActivity extends AppCompatActivity {
         intent.putExtra("correct_count", correctQuestionList.size());
         intent.putExtra("wrong_count", wrongQuestionList.size());
         intent.putExtra("passed", currentMistakeNum < maxMistakeNum);
+        intent.putExtra("question_results_extra", questionResultsList);
         finish();
         startActivity(intent);
     }
@@ -258,8 +270,8 @@ public class TestQuestionsActivity extends AppCompatActivity {
         textViewQuestionNumber.setText(String.format("Question %d/%d", questionNo + 1, maxQuestionNum));
         btnSkip.setText(getResources().getString(R.string.btn_skip));
 
-
-        setQuestionAndAnswersToTextViews(currentQuestion.getQuestion(), currentQuestion.getAnswerArr());
+        answerArr = currentQuestion.getAnswerArr();
+        setQuestionAndAnswersToTextViews(currentQuestion.getQuestion(), answerArr);
         toggleCardViewListeners(true);
         resetColors();
     }
@@ -298,6 +310,18 @@ public class TestQuestionsActivity extends AppCompatActivity {
             currentQuestion.setFavorite(true);
             imgViewFavorite.setImageDrawable(getApplicationContext().getResources().getDrawable(R.drawable.ic_baseline_favorite_24, null));
             Toast.makeText(TestQuestionsActivity.this, "Added to favorites", Toast.LENGTH_SHORT).show();
+        }
+    }
+
+    /**
+     * This methods adds a new question result to the question result list
+     * @param isCorrect - To know if the user gave the correct answer
+     */
+    private void addQuestionResult(Boolean isCorrect, int selectedPosition){
+        if(isCorrect){
+            questionResultsList.add(new QuestionResult(currentQuestion.getQuestion(), Boolean.TRUE, selectedPosition, answerArr));
+        }else{
+            questionResultsList.add(new QuestionResult(currentQuestion.getQuestion(), Boolean.FALSE, answerArr, currentQuestion.getCorrectAnswer()));
         }
     }
 }

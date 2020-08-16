@@ -21,6 +21,8 @@
             android:label="Customize Test - Content"/>
         <activity android:name=".TestResultsActivity"
             android:label="Test Results"/>
+        <activity android:name=".ReviewTestResultsActivity"
+            android:label="Review Test Results"/>
         <activity
             android:name=".NavigationTabActivity"
             android:label="@string/title_activity_navigation_tab"
