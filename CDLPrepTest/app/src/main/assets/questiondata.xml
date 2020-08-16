@@ -514,7 +514,56 @@
     <question>
         <question_text>The stop light switch:</question_text>
         <category>Air Brakes</category>
-        <correct_answer>-  Turns on the brake lights to warn drivers behind you</correct_answer>
+        <correct_answer>Turns on the brake lights to warn drivers behind you</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Why should you drain water from compressed air tanks?</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>-Water can freeze in cold weather and cause brake failure</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are on a steep downgrade and have reached your "safe" speed of 40 mph. You would apply the service brakes until your speed drops to ___ mph</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>35</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The parking or emergency brake on a heavy vehicle can only be held in position  by something that cannot leak away, like:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Spring Pressure</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Excessive heat in the brakes can cause the:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Brakes to fade or fail</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>To check the brake slack on S-cam brakes, you should park on:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Level ground, chock the wheels, and release the parking brakes</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>With air brake vehicles, the parking brakes should be used: </question_text>
+        <category>Air Brakes</category>
+        <correct_answer>Whenever you leave the vehicle unattended</correct_answer>
+        <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
+        <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>A truck with air brakes going 55 mph would require a stopping distance of:</question_text>
+        <category>Air Brakes</category>
+        <correct_answer>More than 300 feet</correct_answer>
         <wrong_answer_1>ABS WRONG ANSWER 1</wrong_answer_1>
         <wrong_answer_2>ABS WRONG ANSWER 2</wrong_answer_2>
     </question>
