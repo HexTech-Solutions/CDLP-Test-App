@@ -1,6 +1,7 @@
 package com.hextech.cdlpreptest;
 
 import android.content.Context;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
@@ -10,6 +11,7 @@ import android.widget.Switch;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.cardview.widget.CardView;
 
 public class CustomizeTestActivity extends AppCompatActivity {
 
@@ -23,6 +25,7 @@ public class CustomizeTestActivity extends AppCompatActivity {
     SeekBar seekNumQuestions, seekMaxMistakes;
     TextView textViewNumQuestions, textViewMaxMistakes;
     Switch switchStopOnMaxMistake, switchInstantFeedback;
+    CardView cardViewContentSetting;
     Button btnSave;
 
     @Override
@@ -44,6 +47,7 @@ public class CustomizeTestActivity extends AppCompatActivity {
         textViewMaxMistakes = this.findViewById(R.id.textViewMaxMistakes);
         switchStopOnMaxMistake = this.findViewById(R.id.switchStopMistake);
         switchInstantFeedback = this.findViewById(R.id.switchInstantFeedback);
+        cardViewContentSetting = this.findViewById(R.id.viewContentSetting);
         btnSave = this.findViewById(R.id.btnSave);
 
         seekNumQuestions.setMax(MAX_QUESTIONS);
@@ -96,6 +100,14 @@ public class CustomizeTestActivity extends AppCompatActivity {
             @Override
             public void onStopTrackingTouch(SeekBar seekBar) {
 
+            }
+        });
+
+        cardViewContentSetting.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(view.getContext(), CustomizeTestContentActivity.class);
+                startActivity(intent);
             }
         });
 
