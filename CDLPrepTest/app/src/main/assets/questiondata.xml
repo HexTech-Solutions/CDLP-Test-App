@@ -2918,17 +2918,1281 @@
     </question>
 
 
+
+
     <question>
-        <question_text>The safest method for using in-vehicle communications equipment is:</question_text>
+        <question_text>Which of these </question_text>
         <category>General Knowledge</category>
-        <correct_answer>Pull off the road in a safe, legal place to use the equipment</correct_answer>
-        <wrong_answer_1>Pull off the road in a safe, legal place to use the equipment wrong 1</wrong_answer_1>
-        <wrong_answer_2>Pull off the road in a safe, legal place to use the equipment wrong 2</wrong_answer_2>
+        <correct_answer>Exhaust</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
     </question>
     <question>
-        <question_text>A good indication that ice is forming on the road way when:</question_text>
+        <question_text>When confronted by an aggressive driver, the very first thing you should do is: </question_text>
         <category>General Knowledge</category>
-        <correct_answer>Your outside mirrors have ice on them</correct_answer>
+        <correct_answer>Exhaust</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these happens when tire blows out at highway speeds? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>A vibrating feeling</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about rear drive wheel braking skids?  </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Trailer can push the towing vehicle sideways.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Drivers of trucks and truck tractors with cargo must check that the cargo is well-secured within the first _miles of a
+            trip.
+        </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>50</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The one reason that dry bulk tanks require special care is: </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>The load can shift</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you do not have a CB radio, what is the first thing you should do at a collision scene? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Protect the area</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of the following statements about driving in fog is true?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Assume that the fog will become thicker after you enter it.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Stab braking should not be used on vehicles with: </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Anti-lock brakes</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You may get hung up on railroad tracks, when:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>The tracks have a steep approach.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is a good thing to remember when crossing or entering traffic with heavy vehicle? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Heavy vehicles need larger gaps in traffic than cars.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When you are passing another vehicle, pedestrian, or bicyclist , you should assume that they:  </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>May move into your traffic lane.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which statement is true?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Many heavy vehicle collisions occur between midnight and 6AM.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>An antilock braking system is:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>An addition to your normal brakes.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>WWhich of these statements is true about notifying authorities after a collision occurs?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>If you have a CB radio or a cellular phone, use it to notify police before exiting your vehicle.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of the following is not characteristic of a front tire failure?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Vehicle fishtails.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Exhaust</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The amount of brake pressure you need to stop your vehicle depends on: </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>The vehicle's speed and how quickly you want to stop.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>It takes a typical tractor trailer at least seconds to clear a single track railroad-highway grade crossing. </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>14</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When driving on a snow-packed road, you should reduce your speed by at least:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>1/2</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about an inspection of suspension components?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Axle mounts should be checked where they are secured on the vehicle frame and axle.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>In rear tire failure, dual rear tires will:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Usually prevent fishtail.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When confronted by an aggressive driver, the very first thing you should do is: </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Make every attempt to get out of their way.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>After starting the engine, the:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Coolant temperature gauge should begin a gradual rise to normal.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When do strong winds affect driving the most:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>When exiting tunnels.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Having antilock brakes on only the tractor will:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Give you more control over the vehicle when braking.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Drivers of trucks and truck tractors with cargo must check that the cargo is well-secured within the first _miles of a trip.</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>50</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Escape ramps:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Should be used by any driver who loses braking power on a vehicle.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If the antilock braking system is not working, you should: </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Drive normally, but get the system serviced soon.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>What should you do before driving in the mountains?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Provide enough traction to steer and push the vehicle through snow.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Break "fade" can be:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Caused by the brakes getting very hot</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are checking your steering and exhaust systems in a pre-trip inspection. Which of these problems should be fixed before the vehicle is driven?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Steering play-more than 	10%(2 inches on a 20 inch wheel)</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Exhaust</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about brakes?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Brakes absorb more heat to stop heavier vehicles</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Bridge formulas permit:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Less maximum axle weight for axles that are close together.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about causes of vehicle fires?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Poor trailer ventilation can cause flammable cargo to catch on fire.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Truck escape ramps:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Help avoid damage to vehicles.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is true about hours of service?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>You should balance your hours of service with enough sleep to keep you alert.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of the following is true about preventing fatigue on a long trip? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Stop periodically for rest and exercise.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Hydroplaning:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Is more likely if tire pressure is low.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about cargo loading?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>State laws dictate legal weight limits.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these items is not checked in a pre-trip inspection? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Amount of fuel in the vehicle.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The Commercial Driver Handbook suggests several things to do when you pass a vehicle. Which of these is not one of them?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Assume the other driver does not see you.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You can see this sign on a vehicle ahead of you. What does the sign mean?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Slow-moving vehicle.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is a good thing to do when driving at night?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Drive slowly enough to stop within the range of your headlights.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are starting your vehicle in motion from a stop. As you apply power to drive the wheels, they start to spin. You should:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Take your foot off the accelerator.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>A car suddenly "cuts" in front of you creating a hazard. Which of these actions should you not take?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Honk and stay close behind the car.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Where must you keep shipping papers when transporting hazardous materials? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>In a pouch on the driver's door or on the seat.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you have a heavy load that is slowing you down on an upgrade, you should: </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Shift into a lower gear.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is important to remember about emergency braking? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>If the wheels are skidding, you cannot control the vehicle.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When driving through roadway work zones, you should: </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Watch for sharp pavement drop-offs</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Retarders:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Can cause the drive wheels to skid when they have poor traction.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is true about cargo types?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Unstable loads (e.g. hanging meat, livestock) require extra caution on curves.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>In your mirror, you see a car approaching from the rear. The next time you check your mirror, you don't see the car. To change lanes, you should:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Wait until you are sure the car isn't in your blind spot.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about staying alert to drive?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Sleep is the only thing that can overcome fatigue.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>What is the most important reason to inspect your truck or bus? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Safety</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You do not have a Hazmat endorsement on your commercial driver license. You may drive a vehicle transporting hazardous materials when:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>The vehicle does not require placards.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>What is the proper way to hold a steering wheel?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Both hands, on opposite sides of the wheel.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about overhead clearance? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>The weight of a vehicle changes its height.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>After driving for several hours on a long trip, you are feeling sleepy. What is the best thing to do? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Park in a safe place and take a nap.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>To correct a drive-wheel braking skid, you should: </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Stop braking.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about warning other drivers of a stopped vehicle?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Move the rear reflective triangle back if the driver's vision is obscured within 500 feet,</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When driving at night, you should:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Adjust your speed to keep your stopping distance within your sight distance.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is not true?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>A drinker can control how fast his or her body absorbs and gets ride of alcohol.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about drugs?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Use of drugs can lead to collisions and/or arrest.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you do not have a Hazmat endorsement on your commercial driver license, and are asked to drive hazardous materials in a placarded vehicle, you should:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Refuse to transport the load.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is not a danger when an automatic transmission is forced into a lower gear at high speed?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Loss of steering control</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>For a first offense of driving a commercial vehicle under the influence of alcohol or drugs, you will lose your COL for at least:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>1 year.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>A helper should be used to help back your vehicle:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Whenever possible.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>It's important to shift gears correctly to keep: </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Control of the vehicle.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When looking ahead of your vehicle, you should look:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Back and forth, near and far.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When approaching a traffic light that has been green for a long time, you should:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Start slowing down so you will be ready to stop.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The purpose of retarders is to</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Help slow the vehicle while driving and reduce brake wear.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Can federal inspectors inspect your truck or bus? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Yes, and they can put it out of service.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>To determine a person's blood alcohol concentration, you must know how: </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Much the person weighs.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is not a proper use of vehicle lights?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Flashing your brake lights to stop someone tailgating.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When you must stop on a one-way or divided highway, you should place your reflective triangles at which of the following locations?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>10 feet, 100 feet, and 200 feet toward approaching traffic.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is a good thing to remember when crossing or entering traffic with a heavy vehicle? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Heavy vehicles need larger gaps in traffic than cars.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are checking your wheels and rims during a pre-trip inspection. Which of these statements is true?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Rust around wheel nuts may mean they are loose.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are performing a pre-trip inspection on your brakes and suspension system. Which of these statements is true?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Brake shoes should not have oil, grease, or brake fluid on them.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about speed and distance?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>It takes four times the distance to stop your vehicle when you double your speed.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is not something you should do if your headlights are not working properly?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Leave your high beams on.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The distance that you should look ahead of your vehicle while driving is	at low speeds.</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>12-15 seconds.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When the roads are slippery, you should:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Make turns as carefully as possible.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which piece of emergency equipment should be in your vehicle? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Warning devices for parked vehicles.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is true about the radiator shutters and the winter front?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>You should remove ice from the radiator shutters or else engine may overheat and stop.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about speed management?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>On slippery roads, it takes longer to stop and is harder to turn without skidding.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The best time to take a short break is:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Before you feel drowsy or tired.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The distance that you should look ahead of your vehicle while driving is about mile at highway speeds.</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>1/4</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is not a danger when an automatic transmission is forced into a lower gear at high speed? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Loss of steering control.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is a good rule to remember when your vehicle is in a traffic emergency and may collide with another vehicle?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>You can almost always turn to miss an obstacle more quickly than you can stop</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If someone is following too closely (tailgating), you should:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Maintain at least 	1 sec for each 	10ft of vehicle length</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about downshifting? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Downshift before you enter the curve.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about backing a heavy vehicle? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>You should avoid backing whenever you can.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about shipping hazardous materials?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>A four-inch, diamond-shaped, hazardous material label must be on the container.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about tires?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>You should inspect your tires every two hours or every 100 miles when driving in very hot weather.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>One can recognize hazardous materials by looking at the containers:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Label</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving a new truck with a manual transmission. What gear will you probably have to use to take a long, steep downhill grade?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>A lower gear than you would use to climb the hill.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is especially true about your tires in hot weather?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>You should check tire mounting and air pressure before driving. 101. </correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>On which fires can you use water?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Tire</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are checking your tires during a pre-trip inspection. Which of these statements is true?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Tires of mismatched sizes cannot be used on same vehicle.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is the proper way to signal for a lane change? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Signal early, and change lanes slowly and smoothly.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving a heavy vehicle with a manual transmission. You have to stop the vehicle on the shoulder while driving on an uphill grade. Which of these is a good rule to follow when putting the vehicle back in motion?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Use the parking brake to hold the vehicle until the clutch engages.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you have been drinking alcohol, before you drive, you should? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Wait for it to wear off.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true regarding the use of drugs while driving?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Prescription drugs are allowed if a doctor says the drugs will not affect safe driving ability.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving a heavy vehicle at 35 mph. The speed limit is 55 mph. The safest speed for your vehicle is:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>35 mph.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about cold-weather driving? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Windshield washer antifreeze should be used.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>As the blood Alcohol Concentration (BAC) goes up. what happens?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Judgment and self-control are affected.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is not part of the engine compartment pre-trip inspection? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Valve clearance.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about engine overheating?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Never remove the radiator cap on a pressurized system until the system has cooled.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about other drivers?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Short-term or daily rental truck drivers are often not used to the limited vision and pose a hazard.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>How far should a driver look ahead of the vehicle while driving?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>12-15 seconds</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Whenever you double your speed, it will take about times as much distance to stop.</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Four</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about bad weather driving conditions?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>When the temperature drops, bridges will freeze before roads.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about tire pressure? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Air pressure in the tires increases with temperature</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When a doctor prescribes medication for you and you know you will be driving, you should: </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>-  Ask the doctor if the medication will affect your ability to drive.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>In bad weather, many car drivers tailgate large vehicles. You should:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Increase your following distance to avoid the need to make a quick change. </correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>What is the best advice for drivers to follow when a heavy fog occurs? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Park at a rest area or truck stop until visibility is better. </correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>What will help keep an engine cool in hot weather?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Making sure the engine has the right amount of oil.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>To avoid a crash, you had to drive onto the right shoulder. You are now driving at 40 mph on the shoulder. How should you move back onto the pavement?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Keep moving at your present speed and steer very gently back onto the pavement when it is safe. </correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You should use your mirrors to check:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Where the rear of your vehicle is while you make turns.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The best drivers are those who watch and prepare for hazards. This is called being:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Defensive</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When driving at night use your low beams when an oncoming vehicle is within:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>500 feet.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>What happens to tar in road pavement during hot weather? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>It bleeds, making the road surface slippery.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You should schedule you're driving:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>For the hours you are normally awake.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If a straight vehicle (no trailer or articulation) goes into a front-wheel skid, it will:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Travel straight ahead even if you turn the steering wheel</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When hydraulic brakes fall, the system won't build up pressure and the brake pedal will feel spongy or go to the floor. What action should you take?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Pump the brake pedal to generate pressure.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is not required knowledge for drivers needing Hazmat endorsement? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Basic chemistry.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>What is counter-steering?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Turning the steering wheel back in the other direction after steering to avoid a traffic emergency.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving on a straight level highway at 50 mph with no vehicles in front of you when suddenly a tire blows out on your vehicle. What should you do first?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Stay off the brake until the vehicle has slowed down.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If your brakes get wet while driving on a rainy day, what can happen when you apply the brakes? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Trailer Jackknife.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is a good thing to remember about drinking alcohol? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Alcohol first affects judgment and self-control.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is not a good rule to follow when caring for an injured person at a collision? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Keep injured persons cool</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Your vehicle has hydraulic brakes. While traveling on a level road, you press the brake pedal and find that it goes to the floor. Which of these statements is true?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Pumping the brake will generate enough pressure to stop the vehicle. </correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of the following does not provide extra gears on some trucks? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Automatic transmissions</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is true about radiator shutters and the winter-front? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>You should remove ice from the radiator shutters.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving a heavy vehicle. You must exit a highway using an off ramp that curves downhill. You should:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Slow down to a safe speed before the curve.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Use your vehicle's horn when:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>It may help avoid a crash.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You wish to turn right from a two-lane, two-way street into another. Your vehicle is so long that you must swing wide to complete the turn. Which of these figures shows how you should make the turn?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Figure B</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>What should you do when you see a hazard in the roadway? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Use your 4-way flashers or brake lights to warn others.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You must stop on a hill or curve on a two-lane, two-way road. How far back should you place your reflective triangles?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Within 500 feet behind the vehicle.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The total weight of a powered unit, the trailer, and the cargo is called: </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Gross combination weight</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about vehicle fires? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>A burning tire should be cooled with water</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Most serious skids result from:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Driving too fast for conditions.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is not true about engine belts in hot weather? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Cracking is likely to occur but is not a safety threat.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>xxx</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Exhaust</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You should avoid driving through deep puddles or flowing water, but, if you cannot, which of these steps can help keep your brakes working.</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Gently putting on the brakes while driving through the water.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about medicines used treat the common cold? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>It often makes you sleepy and thus should not be used while driving.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving a 40-foot vehicle at 35 mph. The road is dry and visibility is good. What is the least amount of seconds in space that you should keep in front of your vehicle to be safe?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>4 seconds.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Where or how is cargo blocking used?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>In the front, back, and/or sides of the cargo.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving a vehicle at 55 mph on dry pavement. About how much total stopping distance will you need to bring it to a stop?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>The length of a football field.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>According to the Commercial Driver Handbook, why should you limit the use of your horn? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>It can startle other drivers.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The road you are driving on becomes very slippery due to ice. Which of these is a good thing to do? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Stop driving as soon as you can safely do so.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is true about double-clutching and shifting? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>You can use the tachometer to tell you when to shift.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is a good thing to do when you steer to avoid a crash? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Don't turn the steering wheel any more than needed. </correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>What should you do when your vehicle hydroplanes? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Release the accelerator.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You will be placed out-of-service for 24 hours if your Blood Alcohol Concentration 	(BAC) is:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>At least .04%</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>What should you do if a car coming toward you at night keeps its high beams on? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Look to the right edge of your lane or right side of the road.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of the following is not a type of retarder? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Robotic</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of the following best describes how "sleep debt" can be paid off? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>It can only be paid off by sleeping.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>For your safety, when you place your reflective triangles you should:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Hold the triangles with the reflective side toward the oncoming traffic </correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these happens when a tries blows out at highway speeds? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>A vibrating feeling.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these statements is not true about backing a heavy vehicle? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>You should back slowly until you slightly bump into the dock.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving a long vehicle that makes wide turns. You want to make a left turn from Elm Street onto Oak Street. There are two left turn lanes (marked "A" and "B") on Elm Street, and Oak Street is a four-lane street with two lanes in each direction. You should:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Use left turn lane "B"</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>To prevent brake "fade", you should:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Select a gear which will keep your vehicle to a safe speed on steep downgrades.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You must leave the road to avoid a hazard or emergency, you should keep in mind that:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>It is less dangerous to drive onto the shoulder than to risk a collision.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When driving on grades, which of these is the best choice for a safe speed?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Based on your vehicle and its cargo, select a speed that is safe within the posted speed.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>"Implied consent" means when you sign the driver license application form, you: </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Give your consent to be tested for alcohol in your blood.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>A key principle to remember about loading cargo is to keep the load: </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Balanced in the cargo area.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Which of these is a danger of crossing railroad tracks on dirt roads? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>You could get hung up halfway across the tracks.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you must cross into the oncoming lane as you make a turn, you should: </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Watch for oncoming traffic.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Containerized loads:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Are generally used for freight carried part way by rail or ship.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you cannot see well with your headlights when driving in an area with few streetlights on a clear night, you should: </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Use your high beams when legal and keep your interior light off.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>If you need to leave the road in a traffic emergency, you should:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Avoid braking until your speed has dropped to about 20 mph.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>What is the term for a commercial vehicle's habit of swinging wide on turns? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Off-tracking.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>When starting to move up a hill from a stop:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Release the parking brake as you apply engine power.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You are driving on a two-lane road. An oncoming driver drifts into your lane and is headed straight for you. Which of these is the best action to take?</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Steer to the right.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Trucks and buses are subject to certain laws, regulations, and restrictions. Which of these statements is true? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Laws and restrictions can vary from place to place.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>You should signal continuously while turning because:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>You need both hands on the wheel to turn safely.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>What three things add up to the total stopping distance for your truck or bus? </question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Perception distance, reaction distance, braking distance.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>Convex (curved) mirrors:</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Show a wider area than flat mirrors.</correct_answer>
+        <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
+        <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
+    </question>
+    <question>
+        <question_text>The braking effect of the engine is greatest when the engine is	the governed RPM's and the transmission is in the	gears.</question_text>
+        <category>General Knowledge</category>
+        <correct_answer>Near, lower.</correct_answer>
         <wrong_answer_1>Your outside mirrors have ice on them wrong 1</wrong_answer_1>
         <wrong_answer_2>Your outside mirrors have ice on them wrong 2</wrong_answer_2>
     </question>
