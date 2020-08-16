@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:id="@+id/scrollViewTestContent"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="70dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <view
+                android:id="@+id/viewContentSetting1"
+                class="androidx.cardview.widget.CardView"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="15dp"
+                app:cardCornerRadius="4dp"
+                app:elevation="2dp">
+
+                <CheckBox
+                    android:id="@+id/cbContentAirBrakes"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|center_vertical"
+                    android:layout_marginStart="15dp"
+                    android:paddingEnd="10dp"
+                    android:paddingStart="10dp"
+                    android:textSize="18sp" />
+            </view>
+
+            <view
+                android:id="@+id/viewContentSetting2"
+                class="androidx.cardview.widget.CardView"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="15dp"
+                app:cardCornerRadius="4dp"
+                app:elevation="2dp">
+
+                <CheckBox
+                    android:id="@+id/cbContentClassC"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|center_vertical"
+                    android:layout_marginStart="15dp"
+                    android:paddingEnd="10dp"
+                    android:paddingStart="10dp"
+                    android:textSize="18sp" />
+            </view>
+
+            <view
+                android:id="@+id/viewContentSetting3"
+                class="androidx.cardview.widget.CardView"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="15dp"
+                app:cardCornerRadius="4dp"
+                app:elevation="2dp">
+
+                <CheckBox
+                    android:id="@+id/cbContentGenKnowledge"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|center_vertical"
+                    android:layout_marginStart="15dp"
+                    android:paddingEnd="10dp"
+                    android:paddingStart="10dp"
+                    android:textSize="18sp" />
+            </view>
+
+            <view
+                android:id="@+id/viewContentSetting4"
+                class="androidx.cardview.widget.CardView"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="15dp"
+                app:cardCornerRadius="4dp"
+                app:elevation="2dp">
+
+                <CheckBox
+                    android:id="@+id/cbContentClassA"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|center_vertical"
+                    android:layout_marginStart="15dp"
+                    android:paddingEnd="10dp"
+                    android:paddingStart="10dp"
+                    android:textSize="18sp" />
+            </view>
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btnSaveContent"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="120dp"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/btn_save"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollViewTestContent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

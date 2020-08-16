@@ -2,6 +2,7 @@ package com.hextech.cdlpreptest;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.os.Bundle;
@@ -15,6 +16,7 @@ import com.hextech.cdlpreptest.util.DBHelper;
 import com.hextech.cdlpreptest.util.Question;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
@@ -23,7 +25,7 @@ public class TestQuestionsActivity extends AppCompatActivity {
 
     Boolean instantFeedback, stopOnMaxMistakes, skip;
     int currentQuestionNum, maxQuestionNum, maxMistakeNum, currentMistakeNum;
-    String selectedAnswer;
+    String selectedAnswer, whereClause;
     Question currentQuestion;
     TextView textViewQuestion, textViewAnswer1, textViewAnswer2, textViewAnswer3, textViewQuestionNumber;
     CardView cardViewAnswer1, cardViewAnswer2, cardViewAnswer3;
@@ -60,6 +62,7 @@ public class TestQuestionsActivity extends AppCompatActivity {
         maxMistakeNum = pref.getInt("numMistakes", 10);
         instantFeedback = pref.getBoolean("instantFeedback", Boolean.FALSE);
         stopOnMaxMistakes = pref.getBoolean("stopOnMaxMistakes", Boolean.FALSE);
+        whereClause = pref.getString("where_clause", null);
         skip = true;
 
         setOnClickListeners();
@@ -134,9 +137,18 @@ public class TestQuestionsActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 if(skip){
-                    //Logic to skip current question
+                    if(currentQuestionNum + 1 < maxQuestionNum){
+                        Collections.swap(questionList, currentQuestionNum, questionList.size() - 1); //Swaps current question with final question in list
+                        database.addToFavorites(currentQuestion.getQuestionId(), currentQuestion.Decode(currentQuestion.isFavorite())); //This updates the record as favorite or not.
+
+                        setNextQuestion(currentQuestionNum); //sets the new question
+                    }else{
+                        Toast.makeText(TestQuestionsActivity.this, "Cannot skip final question", Toast.LENGTH_SHORT).show();
+                    }
                 }else{
-                    if(!instantFeedback){
+                    database.addToFavorites(currentQuestion.getQuestionId(), currentQuestion.Decode(currentQuestion.isFavorite())); //This updates the record as favorite or not.
+
+                    if(!instantFeedback){ //This is not needed if instant feedback is given
                         if(!isCorrectAnswer(currentQuestion.getCorrectAnswer(), selectedAnswer)){
                             currentMistakeNum++;
                             wrongQuestionList.add(currentQuestion.getQuestionId());
@@ -145,7 +157,7 @@ public class TestQuestionsActivity extends AppCompatActivity {
                         }
                     }
 
-                    if(stopOnMaxMistakes && (currentMistakeNum >= maxMistakeNum)){
+                    if(stopOnMaxMistakes && (currentMistakeNum >= maxMistakeNum)){ //To end the test when maximum mistakes are reached and the condition to stop is true
                         endTest();
                     }
 
@@ -207,7 +219,13 @@ public class TestQuestionsActivity extends AppCompatActivity {
         if(correctQuestionList.size() > 0){
             database.increaseAnswerCount(correctQuestionList, Boolean.FALSE);
         }
+
+        Intent intent = new Intent(this, TestResultsActivity.class);
+        intent.putExtra("correct_count", correctQuestionList.size());
+        intent.putExtra("wrong_count", wrongQuestionList.size());
+        intent.putExtra("passed", currentMistakeNum < maxMistakeNum);
         finish();
+        startActivity(intent);
     }
 
     /**
@@ -224,18 +242,23 @@ public class TestQuestionsActivity extends AppCompatActivity {
      * Gets the list of questions from the database
      */
     private void getQuestionList(){
-        questionList = database.getQuestionDataWithSelection(null);
+        questionList = database.getQuestionDataWithSelection(whereClause, maxQuestionNum);
     }
 
     /**
-     * Get the next question and sets it to the view objects
+     * Get the next question and sets it to the view objects.
+     * Also calls addToFavorites method
      * @param questionNo - Next question index from the question list
      */
     @SuppressLint("DefaultLocale")
     private void setNextQuestion(int questionNo){
         currentQuestion = questionList.get(questionNo);
 
+        skip = true;
         textViewQuestionNumber.setText(String.format("Question %d/%d", questionNo + 1, maxQuestionNum));
+        btnSkip.setText(getResources().getString(R.string.btn_skip));
+
+
         setQuestionAndAnswersToTextViews(currentQuestion.getQuestion(), currentQuestion.getAnswerArr());
         toggleCardViewListeners(true);
         resetColors();
