@@ -226,8 +226,7 @@ public class SettingsFragment extends Fragment {
                 {
                     @Override
                     public void onClick(View v) {
-                        Calendar calendar = Calendar.getInstance();
-                        calendar.setTimeInMillis(System.currentTimeMillis());
+
 
                         Calendar newCalender = Calendar.getInstance();
 
@@ -243,25 +242,29 @@ public class SettingsFragment extends Fragment {
                             newCalender.set(Calendar.YEAR,year);
                         }
 
-                        Intent intent = new Intent(getActivity().getApplicationContext(), ReminderBroadcast.class);
+                        Intent intent = new Intent(getContext(), ReminderBroadcast.class);
                         PendingIntent pendingIntent = PendingIntent.getBroadcast(getActivity().getApplicationContext(),0,intent,0);
 
                         AlarmManager alarmManager =  (AlarmManager) getActivity().getApplicationContext().getSystemService(Context.ALARM_SERVICE);
 
+                        Calendar calendar = Calendar.getInstance();
+                        calendar.setTimeInMillis(System.currentTimeMillis());
                         calendar.set(Calendar.HOUR_OF_DAY,np.getHour());
                         calendar.set(Calendar.MINUTE,np.getMinute());
                         calendar.set(Calendar.SECOND,0);
 
                         System.out.println("New Calender"+newCalender.get(Calendar.DAY_OF_MONTH) + ":"+newCalender.get(Calendar.MONTH) + ":"+newCalender.get(Calendar.YEAR));
-                        System.out.println("Old calender"+calendar.get(Calendar.DAY_OF_MONTH) + ":"+calendar.get(Calendar.MONTH) + ":"+calendar.get(Calendar.YEAR));
+                        System.out.println("Old calender"+calendar.get(Calendar.HOUR_OF_DAY) + ":"+calendar.get(Calendar.MINUTE) + ":"+calendar.get(Calendar.SECOND));
 
                         if(calendar.before(newCalender)){
-                            alarmManager.setInexactRepeating(AlarmManager.RTC_WAKEUP,calendar.getTimeInMillis(),AlarmManager.INTERVAL_DAY,pendingIntent);
+//                            alarmManager.setRepeating(AlarmManager.RTC_WAKEUP,calendar.getTimeInMillis(),AlarmManager.INTERVAL_DAY,pendingIntent);
+                            alarmManager.set(AlarmManager.RTC_WAKEUP,calendar.getTimeInMillis(),pendingIntent);
                         }
+
 
                         Toast.makeText(getActivity().getApplicationContext(),
                                 "Notification Set at "+np.getHour() + ":"+np.getMinute(),
-                                Toast.LENGTH_SHORT)
+                                   Toast.LENGTH_SHORT)
                                 .show();
                         d.dismiss(); //close dialog
 
