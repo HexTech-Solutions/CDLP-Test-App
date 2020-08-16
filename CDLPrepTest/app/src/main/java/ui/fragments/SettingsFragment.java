@@ -229,6 +229,8 @@ public class SettingsFragment extends Fragment {
                         Calendar calendar = Calendar.getInstance();
                         calendar.setTimeInMillis(System.currentTimeMillis());
 
+                        Calendar newCalender = Calendar.getInstance();
+
                         SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(getActivity().getApplicationContext());
                         int day = preferences.getInt("Day", 0);
                         int month = preferences.getInt("Month",0);
@@ -236,9 +238,9 @@ public class SettingsFragment extends Fragment {
                         if(day != 0 && month != 0 && year != 0)
                         {
 
-                            calendar.set(Calendar.DAY_OF_MONTH, day);
-                            calendar.set(Calendar.MONTH,month);
-                            calendar.set(Calendar.YEAR,year);
+                            newCalender.set(Calendar.DAY_OF_MONTH, day);
+                            newCalender.set(Calendar.MONTH,month);
+                            newCalender.set(Calendar.YEAR,year);
                         }
 
                         Intent intent = new Intent(getActivity().getApplicationContext(), ReminderBroadcast.class);
@@ -250,7 +252,12 @@ public class SettingsFragment extends Fragment {
                         calendar.set(Calendar.MINUTE,np.getMinute());
                         calendar.set(Calendar.SECOND,0);
 
-                        alarmManager.setRepeating(AlarmManager.RTC_WAKEUP,calendar.getTimeInMillis(),AlarmManager.INTERVAL_DAY,pendingIntent);
+                        System.out.println("New Calender"+newCalender.get(Calendar.DAY_OF_MONTH) + ":"+newCalender.get(Calendar.MONTH) + ":"+newCalender.get(Calendar.YEAR));
+                        System.out.println("Old calender"+calendar.get(Calendar.DAY_OF_MONTH) + ":"+calendar.get(Calendar.MONTH) + ":"+calendar.get(Calendar.YEAR));
+
+                        if(calendar.before(newCalender)){
+                            alarmManager.setInexactRepeating(AlarmManager.RTC_WAKEUP,calendar.getTimeInMillis(),AlarmManager.INTERVAL_DAY,pendingIntent);
+                        }
 
                         Toast.makeText(getActivity().getApplicationContext(),
                                 "Notification Set at "+np.getHour() + ":"+np.getMinute(),
