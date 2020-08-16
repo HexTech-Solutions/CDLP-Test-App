@@ -72,7 +72,7 @@ public class SettingsFragment extends Fragment {
 
                     final NumberPicker np = (NumberPicker) d.findViewById(R.id.statePicker);
                 //Initializing a new string array with elements
-                final String[] values= getResources().getStringArray(R.array.state_names1);
+                final String[] values= getResources().getStringArray(R.array.state_names);
 
                 //Set min, max, wheel and populate.
                 np.setMinValue(0);
