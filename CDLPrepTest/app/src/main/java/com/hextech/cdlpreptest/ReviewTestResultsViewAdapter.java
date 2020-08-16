@@ -33,6 +33,8 @@ public class ReviewTestResultsViewAdapter extends RecyclerView.Adapter<ReviewTes
 
     @Override
     public void onBindViewHolder(@NonNull TestResultsViewHolder holder, int position) {
+        resetCardHolder(holder);
+
         holder.textViewQuestion.setText(resultsList.get(position).getQuestion());
         holder.textViewAnswer1.setText(resultsList.get(position).getAnswerArr()[0]);
         holder.textViewAnswer2.setText(resultsList.get(position).getAnswerArr()[1]);
@@ -74,6 +76,22 @@ public class ReviewTestResultsViewAdapter extends RecyclerView.Adapter<ReviewTes
                 holder.textViewAnswer2.setPadding(holder.textViewAnswer3.getTotalPaddingLeft(), 0, 0, 0);
                 break;
         }
+    }
+
+    /**
+     * To reset the values of the card
+     * @param holder
+     */
+    private static void resetCardHolder(TestResultsViewHolder holder){
+        holder.textViewQuestion.setCompoundDrawablesWithIntrinsicBounds(0, 0, 0, 0);
+        holder.textViewAnswer1.setCompoundDrawablesWithIntrinsicBounds(0, 0, 0, 0);
+        holder.textViewAnswer2.setCompoundDrawablesWithIntrinsicBounds(0, 0, 0, 0);
+        holder.textViewAnswer3.setCompoundDrawablesWithIntrinsicBounds(0, 0, 0, 0);
+
+        holder.textViewQuestion.setPadding(0, 0, 0, 0);
+        holder.textViewAnswer1.setPadding(0, 0, 0, 0);
+        holder.textViewAnswer2.setPadding(0, 0, 0, 0);
+        holder.textViewAnswer3.setPadding(0, 0, 0, 0);
     }
 
     public class TestResultsViewHolder extends RecyclerView.ViewHolder{
