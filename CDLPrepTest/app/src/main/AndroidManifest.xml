@@ -30,8 +30,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-<!--        <activity android:name=".ReviewActivity"></activity>-->
-<!--        <activity android:name=".LearnActivity" />-->
+        <activity android:name=".ReviewActivity"></activity>
+        <activity android:name=".LearnActivity" />
         <activity android:name=".MainActivity">
 
             <!-- <intent-filter> -->
@@ -41,17 +41,9 @@
             <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
             <!-- </intent-filter> -->
         </activity> <!-- add mob data -->
-        <receiver android:name=".ReminderBroadcast"
-            android:enabled="true"
-            android:exported="true"/>
-
-
-
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-3940256099942544~3347511713" />
-
-
     </application>
 
 </manifest>
